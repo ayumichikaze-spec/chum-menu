@@ -11,8 +11,9 @@ Thumbs.db
 # Logs
 *.log
 
-# Working assets (image candidates, processing scripts)
+# Working assets (image candidates, processing scripts, source originals)
 image-candidates/
+source-images/
 scripts/
 *.py
 

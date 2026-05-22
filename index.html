@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title data-i18n="meta_title">メニュー | CHUM APARTMENT チャムアパートメント</title>
+<meta name="description" data-i18n="meta_description" data-i18n-attr="content" content="チャムアパートメントのお品書き。沖縄ブランド経産牛のステーキ、チャムハンバーグ、ホールスパイスカレー、サンドイッチなど、目黒のレストランで楽しめるランチ・ディナーメニュー。">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="CHUM APARTMENT">
+<meta property="og:title" data-i18n="og_title" data-i18n-attr="content" content="メニュー | CHUM APARTMENT チャムアパートメント">
+<meta property="og:description" data-i18n="og_description" data-i18n-attr="content" content="沖縄ブランド経産牛のステーキ、チャムハンバーグ、ホールスパイスカレー。目黒のレストラン CHUM APARTMENT のお品書き。">
+<meta property="og:url" content="https://menu.chum-apt.net/">
+<meta property="og:image" content="https://menu.chum-apt.net/images/steak.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Noto+Sans+JP:wght@300;400;500&family=Noto+Serif+JP:wght@400;500;600&family=Noto+Sans+KR:wght@300;400;500&family=Noto+Serif+KR:wght@400;500;600&family=Noto+Serif+TC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-meal="lunch">
+
+<!-- ============== Header ============== -->
+<header class="site-header">
+  <div class="inner">
+    <a href="index.html" class="brand" data-i18n="brand_home_aria" data-i18n-attr="aria-label" aria-label="CHUM APARTMENT トップへ">
+      <span class="brand-en" data-i18n="site_name">CHUM APARTMENT</span>
+      <span class="brand-jp" data-i18n="site_name_jp">チャムアパートメント</span>
+    </a>
+    <div class="lang-switch">
+      <button type="button" aria-haspopup="true" aria-expanded="false" aria-controls="lang-menu" data-i18n="lang_switch_aria" data-i18n-attr="aria-label" aria-label="言語を選択">
+        <span class="flag" aria-hidden="true">🇯🇵</span> <span class="lang-current">日本語</span>
+      </button>
+      <ul class="lang-menu" id="lang-menu" role="menu">
+        <li role="none"><button role="menuitem" type="button" data-lang="ja"      data-lang-label="日本語"><span class="flag" aria-hidden="true">🇯🇵</span> 日本語</button></li>
+        <li role="none"><button role="menuitem" type="button" data-lang="en"      data-lang-label="English"><span class="flag" aria-hidden="true">🇺🇸</span> English</button></li>
+        <li role="none"><button role="menuitem" type="button" data-lang="fr"      data-lang-label="Français"><span class="flag" aria-hidden="true">🇫🇷</span> Français</button></li>
+        <li role="none"><button role="menuitem" type="button" data-lang="ko"      data-lang-label="한국어"><span class="flag" aria-hidden="true">🇰🇷</span> 한국어</button></li>
+        <li role="none"><button role="menuitem" type="button" data-lang="zh-Hant" data-lang-label="繁體中文"><span class="flag" aria-hidden="true">🇹🇼</span> 繁體中文</button></li>
+        <li role="none"><button role="menuitem" type="button" data-lang="zh-Hans" data-lang-label="简体中文"><span class="flag" aria-hidden="true">🇨🇳</span> 简体中文</button></li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<main>
+
+<!-- ============== Hero ============== -->
+<section class="hero">
+  <p class="display-en" data-i18n="hero_title_en">Menu</p>
+  <h1 class="display-jp" data-i18n="hero_title_ja">お品書き</h1>
+  <div class="hero-ornament" aria-hidden="true"></div>
+  <p class="hero-lede" data-i18n="hero_lede">
+    沖縄ブランド経産牛をいただく、ステーキレストラン。<br>
+    本日の仕入れによって、ご提供する部位は変わります。
+  </p>
+</section>
+
+<!-- ============== Lunch / Dinner Tabs ============== -->
+<div class="meal-tabs" role="tablist" data-i18n="meal_tabs_aria" data-i18n-attr="aria-label" aria-label="時間帯を選択">
+  <button type="button" role="tab" class="tab is-active" data-meal="lunch"  aria-selected="true">
+    <span data-i18n="nav_lunch_en">Lunch</span> <span class="jp" data-i18n="nav_lunch">ランチ</span>
+  </button>
+  <button type="button" role="tab" class="tab"           data-meal="dinner" aria-selected="false">
+    <span data-i18n="nav_dinner_en">Dinner</span> <span class="jp" data-i18n="nav_dinner">ディナー</span>
+  </button>
+</div>
+
+<!-- ============== Campaign Banner ============== -->
+<a class="campaign-banner" href="campaign.html" data-i18n="campaign_banner_aria" data-i18n-attr="aria-label" aria-label="期間限定キャンペーン詳細へ">
+  <span class="label" data-i18n="campaign_banner_label">Limited Campaign</span>
+  <div class="headline"><span data-i18n="campaign_banner_headline">期間限定キャンペーン実施中</span> <strong data-i18n="campaign_banner_strong">肩ロース 15% OFF</strong></div>
+  <span class="arrow" data-i18n="campaign_banner_arrow">View Details →</span>
+</a>
+
+<!-- ============== Steak ============== -->
+<section id="steak" class="fade-in">
+  <p class="section-eyebrow" data-i18n="section_steak_eyebrow">Okinawa Wagyu Steak</p>
+  <h2 class="section-title" data-i18n="section_steak_title">ステーキ</h2>
+  <div class="section-ornament" aria-hidden="true"></div>
+  <p class="section-lede" data-i18n="section_steak_lede">
+    【沖縄ブランド経産牛を使用】<br>
+    もとぶ牧場 母恵牛（沖縄・本部町）と、アーサ牛（又吉牧場・「牛の島」と呼ばれる八重山黒島／あおさを食べて育った経産牛）を中心に、沖縄ブランド経産牛を使用しています。
+  </p>
+
+  <div class="menu-item">
+    <figure class="menu-photo menu-photo--landscape">
+      <img src="images/steak.jpg" data-i18n="item_steak_alt" data-i18n-attr="alt" alt="沖縄ブランド経産牛のステーキ" loading="lazy">
+    </figure>
+    <div class="menu-text">
+      <h3 class="item-name" data-i18n="item_steak_name">沖縄ブランド経産牛</h3>
+      <span class="item-name-en" data-i18n="item_steak_name_en">Okinawa Brand Aged Beef</span>
+      <p class="item-desc" data-i18n="item_steak_desc">
+        部位とグラム数をお選びください。一頭買いのため、ご提供する部位はその日の仕入れにより変わります。
+      </p>
+      <p class="price-note" data-i18n="item_steak_price_note">全て税込価格／ランチ・ディナー共通</p>
+    </div>
+  </div>
+
+  <div class="steak-detail">
+    <table class="price-table" data-i18n="steak_table_aria" data-i18n-attr="aria-label" aria-label="ステーキ部位×グラム価格表">
+      <thead>
+        <tr>
+          <th scope="col" data-i18n="steak_table_col_cut">部位</th>
+          <th scope="col">150g</th>
+          <th scope="col">200g</th>
+          <th scope="col">250g</th>
+          <th scope="col">300g</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="campaign-row">
+          <th scope="row">
+            <span data-i18n="steak_cut_shoulder_loin">肩ロース</span>
+            <a href="campaign.html" class="campaign-badge" data-i18n="steak_cut_shoulder_loin_badge_aria" data-i18n-attr="aria-label" aria-label="肩ロース15%オフキャンペーン詳細へ"><span data-i18n="steak_cut_shoulder_loin_badge">15% OFF</span></a>
+          </th>
+          <td data-label="150g">¥3,300</td>
+          <td data-label="200g">¥4,300</td>
+          <td data-label="250g">¥5,200</td>
+          <td data-label="300g">¥6,400</td>
+        </tr>
+        <tr>
+          <th scope="row" data-i18n="steak_cut_chum_steak">チャムステーキ</th>
+          <td data-label="150g">¥3,100</td>
+          <td data-label="200g">¥4,100</td>
+          <td data-label="250g">¥5,100</td>
+          <td data-label="300g">¥6,100</td>
+        </tr>
+        <tr>
+          <th scope="row" data-i18n="steak_cut_sirloin">サーロイン</th>
+          <td data-label="150g" class="empty">—</td>
+          <td data-label="200g">¥4,500</td>
+          <td data-label="250g">¥5,300</td>
+          <td data-label="300g">¥6,800</td>
+        </tr>
+        <tr>
+          <th scope="row" data-i18n="steak_cut_rib_roast">リヴロース</th>
+          <td data-label="150g" class="empty">—</td>
+          <td data-label="200g">¥4,500</td>
+          <td data-label="250g">¥5,300</td>
+          <td data-label="300g">¥6,800</td>
+        </tr>
+        <tr>
+          <th scope="row" data-i18n="steak_cut_fillet">ヒレ</th>
+          <td data-label="150g">¥3,600</td>
+          <td data-label="200g">¥4,800</td>
+          <td data-label="250g">¥6,000</td>
+          <td data-label="300g" class="empty">—</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="rare-cuts">
+      <h4 data-i18n="rare_cuts_title">希少部位盛り合わせ</h4>
+      <p class="price-from" data-i18n="rare_cuts_price_from">From ¥5,600</p>
+      <p data-i18n="rare_cuts_desc">ミスジ・ハラミ・ザブトンなど、1頭からわずかしか取れない希少部位を盛り合わせ。仕入れにより内容が変わります。</p>
+    </div>
+
+    <div class="sides">
+      <h4 data-i18n="sides_title">Sides</h4>
+      <ul>
+        <li><span data-i18n="side_rice">ライス</span> <span class="price">¥220</span></li>
+        <li><span data-i18n="side_rice_large">ライス大盛</span> <span class="price">¥330</span></li>
+        <li><span data-i18n="side_soup">スープ</span> <span class="price">¥165</span></li>
+        <li><span data-i18n="side_salad_small">サラダ小</span> <span class="price">¥220</span></li>
+        <li><span data-i18n="side_garlic_toast">ガーリックトースト</span> <span class="price">¥550</span></li>
+        <li><span data-i18n="side_bread">パン</span> <span class="price">¥330</span></li>
+        <li><span data-i18n="side_garlic_rice">ガーリックライス</span> <span class="price">¥660</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============== Hamburg ============== -->
+<section id="hamburg" class="fade-in" style="background:var(--bg-soft);">
+  <p class="section-eyebrow" data-i18n="section_hamburg_eyebrow">Hamburg Steak</p>
+  <h2 class="section-title" data-i18n="section_hamburg_title">ハンバーグ</h2>
+  <div class="section-ornament" aria-hidden="true"></div>
+
+  <article class="menu-item">
+    <figure class="menu-photo">
+      <img src="images/hamburger.jpg" data-i18n="item_chum_hamburger_alt" data-i18n-attr="alt" alt="チャムハンバーグ" loading="lazy">
+    </figure>
+    <div class="menu-text">
+      <h3 class="item-name" data-i18n="item_chum_hamburger_name">チャムハンバーグ</h3>
+      <span class="item-name-en" data-i18n="item_chum_hamburger_name_en">Chum Hamburg</span>
+      <p class="item-desc" data-i18n="item_chum_hamburger_desc">
+        本来ステーキとして食べられる肉を、ハンバーグに仕立てました。<br>
+        沖縄経産牛100%。臭みのないクリアな旨味と、健康な牛ならではの、しっかりとした肉の甘み。<br>
+        つなぎは最小限。肉そのものの味を楽しんでいただくハンバーグです。
+      </p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount"
+              data-lunch-price="¥1,870"
+              data-dinner-price="¥1,540">¥1,870</span>
+      </p>
+      <span class="price-note lunch-only" data-i18n="price_note_tax_set">税込・ライス・スープ・サラダ付</span>
+      <span class="price-note dinner-only" data-i18n="price_note_tax">税込</span>
+    </div>
+  </article>
+
+  <article class="menu-item reverse" style="margin-top:80px;">
+    <figure class="menu-photo">
+      <img src="images/hamburger-steak.jpg" data-i18n="item_hamburger_steak_alt" data-i18n-attr="alt" alt="ハンバーグ＆ステーキ" loading="lazy">
+    </figure>
+    <div class="menu-text">
+      <h3 class="item-name" data-i18n="item_hamburger_steak_name">ハンバーグ＆ステーキ</h3>
+      <span class="item-name-en" data-i18n="item_hamburger_steak_name_en">Hamburg &amp; Steak</span>
+      <p class="item-desc" data-i18n="item_hamburger_steak_desc">
+        チャムハンバーグ(100g)と、ステーキを組み合わせた一皿。<br>
+        肩ロース・チャムステーキ・サーロイン・リヴロース・希少部位（ミスジ・ハラミ・ザブトン）からお選びいただけます。
+      </p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount"
+              data-lunch-price="¥2,420"
+              data-dinner-price="¥2,090">¥2,420</span>
+      </p>
+      <span class="price-note lunch-only" data-i18n="price_note_tax_set">税込・ライス・スープ・サラダ付</span>
+      <span class="price-note dinner-only" data-i18n="price_note_tax">税込</span>
+      <span class="price-note" data-i18n="item_hamburger_steak_note_no_fillet">※ ヒレは対応外</span>
+    </div>
+  </article>
+</section>
+
+<!-- ============== Pasta ============== -->
+<section id="pasta" class="fade-in">
+  <p class="section-eyebrow" data-i18n="section_pasta_eyebrow">Pasta</p>
+  <h2 class="section-title" data-i18n="section_pasta_title">パスタ</h2>
+  <div class="section-ornament" aria-hidden="true"></div>
+  <p class="section-lede" data-i18n="section_pasta_lede">
+    ※ その他、季節や仕入れによってパスタの内容は変わります。
+  </p>
+
+  <div class="menu-pair">
+    <article class="menu-pair-item">
+      <figure class="menu-photo">
+        <img src="images/puttanesca.jpg" data-i18n="item_puttanesca_alt" data-i18n-attr="alt" alt="プッタネスカ" loading="lazy">
+      </figure>
+      <h3 class="item-name" data-i18n="item_puttanesca_name">プッタネスカ</h3>
+      <span class="item-name-en" data-i18n="item_puttanesca_name_en">Spaghetti alla Puttanesca</span>
+      <p class="item-desc" data-i18n="item_puttanesca_desc">
+        トマトソースに、オリーブとケッパーの塩気、アンチョビの旨味を重ねた、南イタリア伝統のパスタ。
+      </p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount">¥1,760</span>
+      </p>
+      <span class="price-note" data-i18n="price_note_tax_no_time_diff">税込／時間帯による価格差なし</span>
+    </article>
+
+    <article class="menu-pair-item">
+      <figure class="menu-photo">
+        <img src="images/pancetta-pasta.jpg" data-i18n="item_pancetta_pasta_alt" data-i18n-attr="alt" alt="自家製パンチェッタのパスタ" loading="lazy">
+      </figure>
+      <h3 class="item-name" data-i18n="item_pancetta_pasta_name">自家製パンチェッタのパスタ</h3>
+      <span class="item-name-en" data-i18n="item_pancetta_pasta_name_en">Homemade Pancetta Pasta</span>
+      <p class="item-desc" data-i18n="item_pancetta_pasta_desc">
+        アグー豚または三元豚を使った自家製パンチェッタを、チャムの厨房で時間をかけて仕込んでいます。パスタの内容は季節や仕入れによって変わります。<br>
+        ※本日の内容は店頭にてご案内します
+      </p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount">¥1,760</span>
+      </p>
+      <span class="price-note" data-i18n="price_note_tax">税込</span>
+    </article>
+  </div>
+</section>
+
+<!-- ============== Curry ============== -->
+<section id="curry" class="fade-in" style="background:var(--bg-soft);">
+  <p class="section-eyebrow" data-i18n="section_curry_eyebrow">Spice Curry</p>
+  <h2 class="section-title" data-i18n="section_curry_title">カレー</h2>
+  <div class="section-ornament" aria-hidden="true"></div>
+
+  <article class="menu-item">
+    <figure class="menu-photo menu-photo--landscape">
+      <img src="images/curry.jpg" data-i18n="item_curry_alt" data-i18n-attr="alt" alt="チャムのホールスパイスカレー" loading="lazy">
+    </figure>
+    <div class="menu-text">
+      <h3 class="item-name" data-i18n="item_curry_name">チャムのホールスパイスカレー</h3>
+      <span class="item-name-en" data-i18n="item_curry_name_en">Chum's Whole-Spice Curry</span>
+      <p class="item-desc" data-i18n="item_curry_desc">
+        5種のホールスパイスをテンパリングし、牛すじから引き出した旨味と、スパイスの香りが重なる本格カレー。<br>
+        ※季節によりトッピングの野菜が変わります
+      </p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount"
+              data-lunch-price="¥1,760"
+              data-dinner-price="¥1,430">¥1,760</span>
+      </p>
+      <span class="price-note lunch-only" data-i18n="price_note_tax_set">税込・ライス・スープ・サラダ付</span>
+      <span class="price-note dinner-only" data-i18n="price_note_tax">税込</span>
+    </div>
+  </article>
+</section>
+
+<!-- ============== Sandwiches ============== -->
+<section id="sandwich" class="fade-in">
+  <p class="section-eyebrow" data-i18n="section_sandwich_eyebrow">Sandwiches</p>
+  <h2 class="section-title" data-i18n="section_sandwich_title">サンドイッチ</h2>
+  <div class="section-ornament" aria-hidden="true"></div>
+
+  <div class="menu-pair">
+    <article class="menu-pair-item">
+      <figure class="menu-photo">
+        <img src="images/cheese-steak-sandwich.jpg" data-i18n="item_cheese_steak_sandwich_alt" data-i18n-attr="alt" alt="チーズステーキサンド" loading="lazy">
+      </figure>
+      <h3 class="item-name" data-i18n="item_cheese_steak_sandwich_name">チーズステーキサンド</h3>
+      <span class="item-name-en" data-i18n="item_cheese_steak_sandwich_name_en">Cheese Steak Sandwich</span>
+      <p class="item-desc" data-i18n="item_cheese_steak_sandwich_desc">ステーキとチーズを、たっぷりとサンド。肉とチーズの濃厚な一皿です。</p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount">¥1,320</span>
+      </p>
+      <span class="price-note" data-i18n="price_note_tax">税込</span>
+    </article>
+
+    <article class="menu-pair-item">
+      <figure class="menu-photo">
+        <img src="images/tacos-sandwich.jpg" data-i18n="item_tacos_sandwich_alt" data-i18n-attr="alt" alt="タコスサンド" loading="lazy">
+      </figure>
+      <h3 class="item-name" data-i18n="item_tacos_sandwich_name">タコスサンド</h3>
+      <span class="item-name-en" data-i18n="item_tacos_sandwich_name_en">Tacos Sandwich</span>
+      <p class="item-desc" data-i18n="item_tacos_sandwich_desc">スパイス香るタコミートを、サンドイッチに。肉の旨味とスパイスの香りが楽しめます。</p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount">¥1,320</span>
+      </p>
+      <span class="price-note" data-i18n="price_note_tax">税込</span>
+    </article>
+  </div>
+
+  <div class="coming-soon">
+    <article class="coming-soon-card">
+      <h3 class="item-name" data-i18n="item_pulled_beef_sandwich_name">プルドビーフサンド</h3>
+      <span class="item-name-en" data-i18n="item_pulled_beef_sandwich_name_en">Pulled Beef Sandwich</span>
+      <p class="item-desc" data-i18n="item_pulled_beef_sandwich_desc">
+        JA石垣（沖縄県）の貴重な牛ネック肉を、燻製機でじっくり燻し、スパイスとハーブで煮込んだプルドビーフ。<br>
+        香り高い肉を、サンドイッチに仕立てました。
+      </p>
+      <p class="stay-tuned" data-i18n="item_pulled_beef_sandwich_stay_tuned">— Stay tuned —</p>
+    </article>
+  </div>
+</section>
+
+<!-- ============== Bowl / Plate ============== -->
+<section id="bowl-plate" class="fade-in" style="background:var(--bg-soft);">
+  <p class="section-eyebrow" data-i18n="section_bowl_plate_eyebrow">Bowl &amp; Plate</p>
+  <h2 class="section-title" data-i18n="section_bowl_plate_title">丼・プレート</h2>
+  <div class="section-ornament" aria-hidden="true"></div>
+
+  <div class="menu-pair">
+    <article class="menu-pair-item">
+      <figure class="menu-photo">
+        <img src="images/yakiniku-plate.jpg" data-i18n="item_yakiniku_plate_alt" data-i18n-attr="alt" alt="焼肉プレート" loading="lazy">
+      </figure>
+      <h3 class="item-name" data-i18n="item_yakiniku_plate_name">焼肉プレート</h3>
+      <span class="item-name-en" data-i18n="item_yakiniku_plate_name_en">Yakiniku Plate</span>
+      <p class="item-desc" data-i18n="item_yakiniku_plate_desc">沖縄経産牛の焼肉プレート。肉の旨味をシンプルに楽しんでいただく一皿です。</p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount"
+              data-lunch-price="¥1,760"
+              data-dinner-price="¥1,430">¥1,760</span>
+      </p>
+      <span class="price-note lunch-only" data-i18n="price_note_tax_set">税込・ライス・スープ・サラダ付</span>
+      <span class="price-note dinner-only" data-i18n="price_note_tax">税込</span>
+    </article>
+
+    <article class="menu-pair-item">
+      <figure class="menu-photo">
+        <img src="images/roast-beef-bowl.jpg" data-i18n="item_roast_beef_bowl_alt" data-i18n-attr="alt" alt="ローストビーフ丼" loading="lazy">
+      </figure>
+      <h3 class="item-name" data-i18n="item_roast_beef_bowl_name">ローストビーフ丼</h3>
+      <span class="item-name-en" data-i18n="item_roast_beef_bowl_name_en">Roast Beef Bowl</span>
+      <p class="item-desc" data-i18n="item_roast_beef_bowl_desc">沖縄経産牛のローストビーフを、丼に仕立てた人気メニューです。</p>
+      <p class="price-line">
+        <span class="price-label" data-i18n="price_label">Price</span>
+        <span class="price-amount"
+              data-lunch-price="¥1,760"
+              data-dinner-price="¥1,430">¥1,760</span>
+      </p>
+      <span class="price-note lunch-only" data-i18n="price_note_tax_set_no_rice">税込・スープ・サラダ付</span>
+      <span class="price-note dinner-only" data-i18n="price_note_tax">税込</span>
+    </article>
+  </div>
+</section>
+
+<!-- ============== À la carte (dinner only) ============== -->
+<section id="alacarte" class="fade-in dinner-only">
+  <p class="section-eyebrow" data-i18n="section_alacarte_eyebrow">À la carte</p>
+  <h2 class="section-title" data-i18n="section_alacarte_title">アラカルト</h2>
+  <div class="section-ornament" aria-hidden="true"></div>
+  <p class="section-lede" data-i18n="section_alacarte_lede">
+    ステーキやハンバーグに、もう一品。<br>
+    その日の仕入れに合わせた小皿料理をご用意しています。
+  </p>
+
+  <div class="alacarte-wrap">
+    <ul class="alacarte-list" data-i18n="alacarte_list_aria" data-i18n-attr="aria-label" aria-label="アラカルトメニュー">
+      <li><span class="dish" data-i18n="alacarte_marinade">マリネ</span><span class="dots" aria-hidden="true"></span><span class="price">¥550</span></li>
+      <li><span class="dish" data-i18n="alacarte_prosciutto">生ハム</span><span class="dots" aria-hidden="true"></span><span class="price">¥550</span></li>
+      <li><span class="dish" data-i18n="alacarte_chili_beans">チリビーンズ</span><span class="dots" aria-hidden="true"></span><span class="price">¥550</span></li>
+      <li><span class="dish" data-i18n="alacarte_fries">フライドポテト</span><span class="dots" aria-hidden="true"></span><span class="price">¥550</span></li>
+      <li><span class="dish" data-i18n="alacarte_ajillo">アヒージョ</span><span class="dots" aria-hidden="true"></span><span class="price">¥660</span></li>
+      <li><span class="dish" data-i18n="alacarte_german_potato">ジャーマンポテト</span><span class="dots" aria-hidden="true"></span><span class="price">¥660</span></li>
+      <li><span class="dish" data-i18n="alacarte_garlic_shrimp">ガーリックシュリンプ</span><span class="dots" aria-hidden="true"></span><span class="price">¥660</span></li>
+      <li><span class="dish" data-i18n="alacarte_salad_today">本日のサラダ</span><span class="dots" aria-hidden="true"></span><span class="price">¥770</span></li>
+      <li><span class="dish" data-i18n="alacarte_caprese">カプレーゼ</span><span class="dots" aria-hidden="true"></span><span class="price">¥880</span></li>
+      <li><span class="dish" data-i18n="alacarte_roast_beef_salad">ローストビーフサラダ</span><span class="dots" aria-hidden="true"></span><span class="price">¥1,100</span></li>
+      <li><span class="dish" data-i18n="alacarte_chinjao_rosu">青椒肉絲</span><span class="dots" aria-hidden="true"></span><span class="price">¥1,100</span></li>
+      <li><span class="dish" data-i18n="alacarte_mapo_tofu">麻婆豆腐</span><span class="dots" aria-hidden="true"></span><span class="price">¥1,100</span></li>
+    </ul>
+    <p class="alacarte-note" data-i18n="alacarte_price_note">全て税込価格</p>
+  </div>
+</section>
+
+<!-- ============== Lunch drinks note (lunch only) ============== -->
+<section id="lunch-drinks-note" class="lunch-only lunch-drinks-section">
+  <div class="lunch-drinks-card">
+    <p class="eyebrow" data-i18n="lunch_drinks_eyebrow">Lunch Drinks</p>
+    <h3 class="title" data-i18n="lunch_drinks_title">〈ランチタイムのお飲み物について〉</h3>
+    <p class="lead" data-i18n="lunch_drinks_lead">
+      ランチセットには、以下のお飲み物のいずれかが付きます。
+    </p>
+    <ul class="drink-list">
+      <li data-i18n="lunch_drink_hot_coffee">ホットコーヒー</li>
+      <li data-i18n="lunch_drink_iced_coffee">アイスコーヒー</li>
+      <li data-i18n="lunch_drink_espresso">エスプレッソ</li>
+      <li data-i18n="lunch_drink_hot_tea">ホット紅茶</li>
+      <li data-i18n="lunch_drink_iced_tea">アイスティー</li>
+      <li data-i18n="lunch_drink_apple_juice">アップルジュース</li>
+      <li data-i18n="lunch_drink_orange_juice">オレンジジュース</li>
+    </ul>
+
+    <p class="upgrade-eyebrow" data-i18n="lunch_drinks_upgrade_eyebrow">— 追加グレードアップ —</p>
+    <ul class="upgrade-list">
+      <li><span class="name" data-i18n="lunch_upgrade_non_alcohol_beer">ノンアルコールビール</span><span class="plus">+¥220</span></li>
+      <li><span class="name" data-i18n="lunch_upgrade_beer">ビール（生 / ボトル）</span><span class="plus">+¥220</span></li>
+      <li><span class="name" data-i18n="lunch_upgrade_house_wine">ハウスワイン 赤 / 白</span><span class="plus">+¥110</span></li>
+    </ul>
+    <p class="micro-note" data-i18n="lunch_drinks_micro_note">※ 価格は税込／ステーキ・ハンバーグ・パスタ・カレー等のランチセットメニューが対象です</p>
+  </div>
+</section>
+
+<!-- ============== More Menus CTA ============== -->
+<section class="nav-cta fade-in" aria-labelledby="more-menus-cta">
+  <p class="eyebrow" data-i18n="more_menus_eyebrow">More Menus</p>
+  <h2 class="title" id="more-menus-cta" data-i18n="more_menus_title">テイクアウト・ドリンク</h2>
+  <p style="color:var(--muted);font-size:13px;max-width:520px;margin:0 auto 22px;line-height:2;" data-i18n="more_menus_desc">
+    お弁当・サンドイッチ・お飲み物もご用意しています。<br>
+    店内と同じ沖縄経産牛で。
+  </p>
+  <div class="nav-cta-row">
+    <a href="takeout.html" class="btn-outline" data-i18n="btn_view_takeout">View Takeout Menu</a>
+    <a href="drink.html" class="btn-outline" data-i18n="btn_view_drinks">View Drinks Menu</a>
+  </div>
+</section>
+
+</main>
+
+<!-- ============== Footer ============== -->
+<footer class="site-footer">
+  <div class="inner">
+    <span class="brand-en" data-i18n="site_name">CHUM APARTMENT</span>
+    <div class="brand-jp" data-i18n="site_name_jp">チャムアパートメント</div>
+    <a class="home-link" href="https://chum-apt.net/" target="_blank" rel="noopener" data-i18n="footer_home_link">本体サイトへ →</a>
+    <p class="copy" data-i18n="footer_copy">© 2026 CHUM APARTMENT</p>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+<script src="js/i18n.js"></script>
+</body>
+</html>

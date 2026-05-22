@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# WSL / Windows artifacts
+*:Zone.Identifier
+
+# Logs
+*.log
+
+# Working assets (image candidates, processing scripts)
+image-candidates/
+scripts/
+*.py
+
+# Internal preview / candidate pages (not part of the public menu site)
+candidates-overview.html
+
+# Internal spec / working notes
+チャムアパートメント_メニューサイト_仕様書.md
+.ls
+
+# Claude Code local settings
+.claude/

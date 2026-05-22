@@ -1,0 +1,2308 @@
+{
+  "common": {
+    "site_name": {
+      "ja": "CHUM APARTMENT",
+      "en": "CHUM APARTMENT",
+      "fr": "CHUM APARTMENT",
+      "ko": "CHUM APARTMENT",
+      "zh-Hant": "CHUM APARTMENT",
+      "zh-Hans": "CHUM APARTMENT"
+    },
+    "site_name_jp": {
+      "ja": "チャムアパートメント",
+      "en": "CHUM APARTMENT",
+      "fr": "CHUM APARTMENT",
+      "ko": "챔 아파트먼트",
+      "zh-Hant": "CHUM APARTMENT",
+      "zh-Hans": "CHUM APARTMENT"
+    },
+    "brand_home_aria": {
+      "ja": "CHUM APARTMENT トップへ",
+      "en": "Back to CHUM APARTMENT home",
+      "fr": "Retour à l'accueil CHUM APARTMENT",
+      "ko": "CHUM APARTMENT 홈으로",
+      "zh-Hant": "返回 CHUM APARTMENT 首頁",
+      "zh-Hans": "返回 CHUM APARTMENT 首页"
+    },
+    "lang_switch_aria": {
+      "ja": "言語を選択",
+      "en": "Select language",
+      "fr": "Choisir la langue",
+      "ko": "언어 선택",
+      "zh-Hant": "選擇語言",
+      "zh-Hans": "选择语言"
+    },
+    "lang_label_ja": {
+      "ja": "日本語",
+      "en": "日本語",
+      "fr": "日本語",
+      "ko": "日本語",
+      "zh-Hant": "日本語",
+      "zh-Hans": "日本語"
+    },
+    "lang_label_en": {
+      "ja": "English",
+      "en": "English",
+      "fr": "English",
+      "ko": "English",
+      "zh-Hant": "English",
+      "zh-Hans": "English"
+    },
+    "lang_label_fr": {
+      "ja": "Français",
+      "en": "Français",
+      "fr": "Français",
+      "ko": "Français",
+      "zh-Hant": "Français",
+      "zh-Hans": "Français"
+    },
+    "lang_label_ko": {
+      "ja": "한국어",
+      "en": "한국어",
+      "fr": "한국어",
+      "ko": "한국어",
+      "zh-Hant": "한국어",
+      "zh-Hans": "한국어"
+    },
+    "lang_label_zh_hant": {
+      "ja": "繁體中文",
+      "en": "繁體中文",
+      "fr": "繁體中文",
+      "ko": "繁體中文",
+      "zh-Hant": "繁體中文",
+      "zh-Hans": "繁體中文"
+    },
+    "lang_label_zh_hans": {
+      "ja": "简体中文",
+      "en": "简体中文",
+      "fr": "简体中文",
+      "ko": "简体中文",
+      "zh-Hant": "简体中文",
+      "zh-Hans": "简体中文"
+    },
+    "nav_lunch_en": {
+      "ja": "Lunch",
+      "en": "Lunch",
+      "fr": "Lunch",
+      "ko": "Lunch",
+      "zh-Hant": "Lunch",
+      "zh-Hans": "Lunch"
+    },
+    "nav_lunch": {
+      "ja": "ランチ",
+      "en": "Lunch",
+      "fr": "Déjeuner",
+      "ko": "런치",
+      "zh-Hant": "午餐",
+      "zh-Hans": "午餐"
+    },
+    "nav_dinner_en": {
+      "ja": "Dinner",
+      "en": "Dinner",
+      "fr": "Dinner",
+      "ko": "Dinner",
+      "zh-Hant": "Dinner",
+      "zh-Hans": "Dinner"
+    },
+    "nav_dinner": {
+      "ja": "ディナー",
+      "en": "Dinner",
+      "fr": "Dîner",
+      "ko": "디너",
+      "zh-Hant": "晚餐",
+      "zh-Hans": "晚餐"
+    },
+    "meal_tabs_aria": {
+      "ja": "時間帯を選択",
+      "en": "Select time of day",
+      "fr": "Choisir le service",
+      "ko": "시간대 선택",
+      "zh-Hant": "選擇用餐時段",
+      "zh-Hans": "选择用餐时段"
+    },
+    "more_menus_eyebrow": {
+      "ja": "More Menus",
+      "en": "More Menus",
+      "fr": "Autres Menus",
+      "ko": "다른 메뉴",
+      "zh-Hant": "更多菜單",
+      "zh-Hans": "更多菜单"
+    },
+    "btn_view_takeout": {
+      "ja": "View Takeout Menu",
+      "en": "View Takeout Menu",
+      "fr": "Voir le menu à emporter",
+      "ko": "테이크아웃 메뉴 보기",
+      "zh-Hant": "查看外帶菜單",
+      "zh-Hans": "查看外带菜单"
+    },
+    "btn_view_drinks": {
+      "ja": "View Drinks Menu",
+      "en": "View Drinks Menu",
+      "fr": "Voir le menu boissons",
+      "ko": "음료 메뉴 보기",
+      "zh-Hant": "查看飲品菜單",
+      "zh-Hans": "查看饮品菜单"
+    },
+    "btn_back_to_main": {
+      "ja": "← メインメニューに戻る",
+      "en": "← Back to Main Menu",
+      "fr": "← Retour au menu principal",
+      "ko": "← 메인 메뉴로 돌아가기",
+      "zh-Hant": "← 返回主菜單",
+      "zh-Hans": "← 返回主菜单"
+    },
+    "btn_to_drink_menu": {
+      "ja": "ドリンクメニュー →",
+      "en": "Drinks Menu →",
+      "fr": "Menu boissons →",
+      "ko": "음료 메뉴 →",
+      "zh-Hant": "飲品菜單 →",
+      "zh-Hans": "饮品菜单 →"
+    },
+    "price_label": {
+      "ja": "Price",
+      "en": "Price",
+      "fr": "Prix",
+      "ko": "가격",
+      "zh-Hant": "價格",
+      "zh-Hans": "价格"
+    },
+    "price_note_tax": {
+      "ja": "税込",
+      "en": "Tax included",
+      "fr": "TTC",
+      "ko": "부가세 포함",
+      "zh-Hant": "含稅",
+      "zh-Hans": "含税"
+    },
+    "price_note_tax_set": {
+      "ja": "税込・ライス・スープ・サラダ付",
+      "en": "Tax included / Served with rice, soup & salad",
+      "fr": "TTC / Riz, soupe et salade inclus",
+      "ko": "부가세 포함 / 밥·수프·샐러드 포함",
+      "zh-Hant": "含稅／附白飯・湯品・沙拉",
+      "zh-Hans": "含税／附米饭・汤品・沙拉"
+    },
+    "price_note_tax_set_no_rice": {
+      "ja": "税込・スープ・サラダ付",
+      "en": "Tax included / Served with soup & salad",
+      "fr": "TTC / Soupe et salade inclus",
+      "ko": "부가세 포함 / 수프·샐러드 포함",
+      "zh-Hant": "含稅／附湯品・沙拉",
+      "zh-Hans": "含税／附汤品・沙拉"
+    },
+    "price_note_tax_no_time_diff": {
+      "ja": "税込／時間帯による価格差なし",
+      "en": "Tax included / Same price all day",
+      "fr": "TTC / Prix identique midi et soir",
+      "ko": "부가세 포함 / 시간대별 가격 차이 없음",
+      "zh-Hant": "含稅／午晚同價",
+      "zh-Hans": "含税／午晚同价"
+    },
+    "footer_home_link": {
+      "ja": "本体サイトへ →",
+      "en": "Visit main website →",
+      "fr": "Site principal →",
+      "ko": "메인 사이트로 →",
+      "zh-Hant": "前往官方網站 →",
+      "zh-Hans": "前往官方网站 →"
+    },
+    "footer_copy": {
+      "ja": "© 2026 CHUM APARTMENT",
+      "en": "© 2026 CHUM APARTMENT",
+      "fr": "© 2026 CHUM APARTMENT",
+      "ko": "© 2026 CHUM APARTMENT",
+      "zh-Hant": "© 2026 CHUM APARTMENT",
+      "zh-Hans": "© 2026 CHUM APARTMENT"
+    }
+  },
+  "index": {
+    "meta_title": {
+      "ja": "メニュー | CHUM APARTMENT チャムアパートメント",
+      "en": "Menu | CHUM APARTMENT",
+      "fr": "Menu | CHUM APARTMENT",
+      "ko": "메뉴 | CHUM APARTMENT",
+      "zh-Hant": "菜單 | CHUM APARTMENT",
+      "zh-Hans": "菜单 | CHUM APARTMENT"
+    },
+    "meta_description": {
+      "ja": "チャムアパートメントのお品書き。沖縄ブランド経産牛のステーキ、チャムハンバーグ、ホールスパイスカレー、サンドイッチなど、目黒のレストランで楽しめるランチ・ディナーメニュー。",
+      "en": "Menu at CHUM APARTMENT in Meguro, Tokyo. Steaks of Okinawa-branded aged beef, Chum Hamburg, whole-spice curry, sandwiches and more — for lunch and dinner.",
+      "fr": "Le menu du CHUM APARTMENT à Meguro, Tokyo. Steaks de bœuf vieilli d'Okinawa, hamburger maison Chum, curry aux épices entières, sandwichs — pour le déjeuner et le dîner.",
+      "ko": "도쿄 메구로의 레스토랑 CHUM APARTMENT 메뉴. 오키나와 브랜드 경산우 스테이크, 챔 햄버그, 홀 스파이스 카레, 샌드위치 등 런치・디너 메뉴를 즐기실 수 있습니다.",
+      "zh-Hant": "東京目黒 CHUM APARTMENT 餐廳菜單。沖繩品牌經產牛排、Chum 漢堡排、整顆香料咖哩、三明治等午餐與晚餐料理。",
+      "zh-Hans": "东京目黑 CHUM APARTMENT 餐厅菜单。冲绳品牌经产牛排、Chum 汉堡排、整颗香料咖喱、三明治等午餐与晚餐料理。"
+    },
+    "og_title": {
+      "ja": "メニュー | CHUM APARTMENT チャムアパートメント",
+      "en": "Menu | CHUM APARTMENT",
+      "fr": "Menu | CHUM APARTMENT",
+      "ko": "메뉴 | CHUM APARTMENT",
+      "zh-Hant": "菜單 | CHUM APARTMENT",
+      "zh-Hans": "菜单 | CHUM APARTMENT"
+    },
+    "og_description": {
+      "ja": "沖縄ブランド経産牛のステーキ、チャムハンバーグ、ホールスパイスカレー。目黒のレストラン CHUM APARTMENT のお品書き。",
+      "en": "Steaks of Okinawa-branded aged beef, Chum Hamburg, and whole-spice curry. The menu at CHUM APARTMENT, Meguro.",
+      "fr": "Steaks de bœuf vieilli d'Okinawa, hamburger maison Chum, curry aux épices entières. Le menu du CHUM APARTMENT à Meguro.",
+      "ko": "오키나와 브랜드 경산우 스테이크, 챔 햄버그, 홀 스파이스 카레. 메구로 레스토랑 CHUM APARTMENT 의 메뉴입니다.",
+      "zh-Hant": "沖繩品牌經產牛排、Chum 漢堡排、整顆香料咖哩。目黒 CHUM APARTMENT 餐廳的菜單。",
+      "zh-Hans": "冲绳品牌经产牛排、Chum 汉堡排、整颗香料咖喱。目黑 CHUM APARTMENT 餐厅的菜单。"
+    },
+    "hero_title_en": {
+      "ja": "Menu",
+      "en": "Menu",
+      "fr": "Menu",
+      "ko": "Menu",
+      "zh-Hant": "Menu",
+      "zh-Hans": "Menu"
+    },
+    "hero_title_ja": {
+      "ja": "お品書き",
+      "en": "Our Menu",
+      "fr": "Notre Carte",
+      "ko": "메뉴",
+      "zh-Hant": "菜單",
+      "zh-Hans": "菜单"
+    },
+    "hero_lede": {
+      "ja": "沖縄ブランド経産牛をいただく、ステーキレストラン。\n本日の仕入れによって、ご提供する部位は変わります。",
+      "en": "A steakhouse serving Okinawa-branded aged beef.\nCuts available change daily based on our deliveries.",
+      "fr": "Une maison du steak servant le bœuf vieilli des marques d'Okinawa.\nLes pièces disponibles changent chaque jour selon les arrivages.",
+      "ko": "오키나와 브랜드 경산우를 즐기는 스테이크 레스토랑.\n그날의 입고에 따라 제공되는 부위가 달라집니다.",
+      "zh-Hant": "品味沖繩品牌經產牛的牛排餐廳。\n依當日進貨情況,提供的部位會有所變化。",
+      "zh-Hans": "品味冲绳品牌经产牛的牛排餐厅。\n依当日进货情况,提供的部位会有所变化。"
+    },
+    "campaign_banner_label": {
+      "ja": "Limited Campaign",
+      "en": "Limited Campaign",
+      "fr": "Offre Limitée",
+      "ko": "기간 한정 캠페인",
+      "zh-Hant": "限時優惠",
+      "zh-Hans": "限时优惠"
+    },
+    "campaign_banner_headline": {
+      "ja": "期間限定キャンペーン実施中",
+      "en": "Limited-Time Campaign On Now",
+      "fr": "Offre limitée en cours",
+      "ko": "기간 한정 캠페인 실시중",
+      "zh-Hant": "限時優惠活動進行中",
+      "zh-Hans": "限时优惠活动进行中"
+    },
+    "campaign_banner_strong": {
+      "ja": "肩ロース 15% OFF",
+      "en": "Shoulder Loin 15% OFF",
+      "fr": "Faux-filet d'épaule à -15 %",
+      "ko": "숄더 로인 15% OFF",
+      "zh-Hant": "肩里肌 15% OFF",
+      "zh-Hans": "肩里脊 15% OFF"
+    },
+    "campaign_banner_arrow": {
+      "ja": "View Details →",
+      "en": "View Details →",
+      "fr": "Voir les détails →",
+      "ko": "자세히 보기 →",
+      "zh-Hant": "查看詳情 →",
+      "zh-Hans": "查看详情 →"
+    },
+    "campaign_banner_aria": {
+      "ja": "期間限定キャンペーン詳細へ",
+      "en": "View limited campaign details",
+      "fr": "Voir les détails de l'offre limitée",
+      "ko": "기간 한정 캠페인 상세 보기",
+      "zh-Hant": "查看限時優惠詳情",
+      "zh-Hans": "查看限时优惠详情"
+    },
+    "section_steak_eyebrow": {
+      "ja": "Okinawa Wagyu Steak",
+      "en": "Okinawa Wagyu Steak",
+      "fr": "Steak de Wagyu d'Okinawa",
+      "ko": "Okinawa Wagyu Steak",
+      "zh-Hant": "Okinawa Wagyu Steak",
+      "zh-Hans": "Okinawa Wagyu Steak"
+    },
+    "section_steak_title": {
+      "ja": "ステーキ",
+      "en": "Steak",
+      "fr": "Steak",
+      "ko": "스테이크",
+      "zh-Hant": "牛排",
+      "zh-Hans": "牛排"
+    },
+    "section_steak_lede": {
+      "ja": "【沖縄ブランド経産牛を使用】\nもとぶ牧場 母恵牛（沖縄・本部町）と、アーサ牛（又吉牧場・「牛の島」と呼ばれる八重山黒島／あおさを食べて育った経産牛）を中心に、沖縄ブランド経産牛を使用しています。",
+      "en": "【Okinawa-Branded Aged Beef】\nWe primarily serve Bokei-gyu from Motobu Ranch (Motobu, Okinawa) and Asa-gyu from Mataeoshi Ranch (Yaeyama Kuroshima, known as “Cattle Island” — aged cows raised on sea lettuce).",
+      "fr": "【Bœuf vieilli des marques d'Okinawa】\nNous servons principalement le Bokei-gyu du ranch Motobu (Motobu, Okinawa) et l'Asa-gyu du ranch Mataeoshi (île de Kuroshima, dite « l'île aux bœufs » — vaches âgées nourries à la laitue de mer).",
+      "ko": "【오키나와 브랜드 경산우 사용】\n오키나와 모토부 목장의 보케이규(母恵牛)와, 「소의 섬」으로 불리는 야에야마 쿠로시마의 마타요시 목장에서 파래를 먹고 자란 아사규(あおさ牛)를 중심으로, 오키나와 브랜드 경산우를 사용하고 있습니다.",
+      "zh-Hant": "【使用沖繩品牌經產牛】\n以沖繩本部町本部牧場的母恵牛、與被稱為「牛之島」的八重山黒島・又吉牧場以海葡萄餵養的アーサ牛(海菜牛)為主,使用沖繩品牌經產牛。",
+      "zh-Hans": "【使用冲绳品牌经产牛】\n以冲绳本部町本部牧场的母惠牛、与被称为「牛之岛」的八重山黑岛・又吉牧场以海葡萄喂养的アーサ牛(海菜牛)为主,使用冲绳品牌经产牛。"
+    },
+    "item_steak_alt": {
+      "ja": "沖縄ブランド経産牛のステーキ",
+      "en": "Steak of Okinawa-branded aged beef",
+      "fr": "Steak de bœuf vieilli d'Okinawa",
+      "ko": "오키나와 브랜드 경산우 스테이크",
+      "zh-Hant": "沖繩品牌經產牛排",
+      "zh-Hans": "冲绳品牌经产牛排"
+    },
+    "item_steak_name": {
+      "ja": "沖縄ブランド経産牛",
+      "en": "Okinawa Brand Aged Beef",
+      "fr": "Bœuf vieilli d'Okinawa",
+      "ko": "오키나와 브랜드 경산우",
+      "zh-Hant": "沖繩品牌經產牛",
+      "zh-Hans": "冲绳品牌经产牛"
+    },
+    "item_steak_name_en": {
+      "ja": "Okinawa Brand Aged Beef",
+      "en": "Okinawa Brand Aged Beef",
+      "fr": "Okinawa Brand Aged Beef",
+      "ko": "Okinawa Brand Aged Beef",
+      "zh-Hant": "Okinawa Brand Aged Beef",
+      "zh-Hans": "Okinawa Brand Aged Beef"
+    },
+    "item_steak_desc": {
+      "ja": "部位とグラム数をお選びください。一頭買いのため、ご提供する部位はその日の仕入れにより変わります。",
+      "en": "Choose your cut and weight. As we source whole carcasses, the cuts available change daily based on our deliveries.",
+      "fr": "Choisissez votre pièce et son poids. Nous achetons des carcasses entières ; les pièces disponibles changent chaque jour selon les arrivages.",
+      "ko": "부위와 그램 수를 선택해 주세요. 한 마리 통째로 구매하기 때문에, 제공되는 부위는 그날의 입고 상황에 따라 달라집니다.",
+      "zh-Hant": "請選擇部位與克數。因採整頭採購,提供的部位會依當日進貨情況變動。",
+      "zh-Hans": "请选择部位与克数。因采整头采购,提供的部位会依当日进货情况变动。"
+    },
+    "item_steak_price_note": {
+      "ja": "全て税込価格／ランチ・ディナー共通",
+      "en": "All prices tax included / Same price for lunch & dinner",
+      "fr": "Tous les prix TTC / Identiques au déjeuner et au dîner",
+      "ko": "모든 가격 부가세 포함 / 런치・디너 동일",
+      "zh-Hant": "所有價格皆含稅／午晚同價",
+      "zh-Hans": "所有价格皆含税／午晚同价"
+    },
+    "steak_table_aria": {
+      "ja": "ステーキ部位×グラム価格表",
+      "en": "Steak cuts and prices by weight",
+      "fr": "Tableau des pièces et prix par poids",
+      "ko": "스테이크 부위×그램 가격표",
+      "zh-Hant": "牛排部位×克數價格表",
+      "zh-Hans": "牛排部位×克数价格表"
+    },
+    "steak_table_col_cut": {
+      "ja": "部位",
+      "en": "Cut",
+      "fr": "Pièce",
+      "ko": "부위",
+      "zh-Hant": "部位",
+      "zh-Hans": "部位"
+    },
+    "steak_cut_shoulder_loin": {
+      "ja": "肩ロース",
+      "en": "Shoulder Loin",
+      "fr": "Faux-filet d'épaule",
+      "ko": "숄더 로인",
+      "zh-Hant": "肩里肌",
+      "zh-Hans": "肩里脊"
+    },
+    "steak_cut_shoulder_loin_badge": {
+      "ja": "15% OFF",
+      "en": "15% OFF",
+      "fr": "-15 %",
+      "ko": "15% OFF",
+      "zh-Hant": "15% OFF",
+      "zh-Hans": "15% OFF"
+    },
+    "steak_cut_shoulder_loin_badge_aria": {
+      "ja": "肩ロース15%オフキャンペーン詳細へ",
+      "en": "View Shoulder Loin 15% off campaign details",
+      "fr": "Voir les détails de l'offre -15 % sur le faux-filet d'épaule",
+      "ko": "숄더 로인 15% 할인 캠페인 상세 보기",
+      "zh-Hant": "查看肩里肌 15% 折扣優惠詳情",
+      "zh-Hans": "查看肩里脊 15% 折扣优惠详情"
+    },
+    "steak_cut_chum_steak": {
+      "ja": "チャムステーキ",
+      "en": "Chum Steak",
+      "fr": "Chum Steak",
+      "ko": "챔 스테이크",
+      "zh-Hant": "Chum 牛排",
+      "zh-Hans": "Chum 牛排"
+    },
+    "steak_cut_sirloin": {
+      "ja": "サーロイン",
+      "en": "Sirloin",
+      "fr": "Aloyau",
+      "ko": "설로인",
+      "zh-Hant": "沙朗",
+      "zh-Hans": "西冷"
+    },
+    "steak_cut_rib_roast": {
+      "ja": "リヴロース",
+      "en": "Rib Roast",
+      "fr": "Côte de bœuf",
+      "ko": "립 로스트",
+      "zh-Hant": "肋眼",
+      "zh-Hans": "肋眼"
+    },
+    "steak_cut_fillet": {
+      "ja": "ヒレ",
+      "en": "Fillet",
+      "fr": "Filet",
+      "ko": "안심",
+      "zh-Hant": "菲力",
+      "zh-Hans": "菲力"
+    },
+    "rare_cuts_title": {
+      "ja": "希少部位盛り合わせ",
+      "en": "Rare Cuts Assortment",
+      "fr": "Assortiment de pièces rares",
+      "ko": "희소 부위 모듬",
+      "zh-Hant": "稀有部位拼盤",
+      "zh-Hans": "稀有部位拼盘"
+    },
+    "rare_cuts_price_from": {
+      "ja": "From ¥5,600",
+      "en": "From ¥5,600",
+      "fr": "À partir de ¥5,600",
+      "ko": "¥5,600 부터",
+      "zh-Hant": "¥5,600 起",
+      "zh-Hans": "¥5,600 起"
+    },
+    "rare_cuts_desc": {
+      "ja": "ミスジ・ハラミ・ザブトンなど、1頭からわずかしか取れない希少部位を盛り合わせ。仕入れにより内容が変わります。",
+      "en": "An assortment of rare cuts such as Misuji (top blade), Harami (skirt) and Zabuton (chuck flap) — only a small portion is available per cow. Contents vary by delivery.",
+      "fr": "Assortiment de pièces rares comme la Misuji (paleron), le Harami (onglet) et le Zabuton (flap) — une seule petite quantité par bête. Le contenu varie selon les arrivages.",
+      "ko": "미스지(부챗살)・하라미(안창살)・자부톤(부챗살 옆 부위) 등, 한 마리에서 극히 소량만 얻을 수 있는 희소 부위를 모듬으로. 입고에 따라 내용이 달라집니다.",
+      "zh-Hant": "嫩肩里肌・橫膈膜・板腱等,每頭牛僅能取得少量的稀有部位拼盤。內容依進貨而異。",
+      "zh-Hans": "嫩肩里脊・横膈膜・板腱等,每头牛仅能取得少量的稀有部位拼盘。内容依进货而异。"
+    },
+    "sides_title": {
+      "ja": "Sides",
+      "en": "Sides",
+      "fr": "Accompagnements",
+      "ko": "사이드",
+      "zh-Hant": "配菜",
+      "zh-Hans": "配菜"
+    },
+    "side_rice": {
+      "ja": "ライス",
+      "en": "Rice",
+      "fr": "Riz",
+      "ko": "라이스",
+      "zh-Hant": "白飯",
+      "zh-Hans": "米饭"
+    },
+    "side_rice_large": {
+      "ja": "ライス大盛",
+      "en": "Rice (Large)",
+      "fr": "Riz (grande portion)",
+      "ko": "라이스 곱빼기",
+      "zh-Hant": "白飯大碗",
+      "zh-Hans": "米饭大碗"
+    },
+    "side_soup": {
+      "ja": "スープ",
+      "en": "Soup",
+      "fr": "Soupe",
+      "ko": "수프",
+      "zh-Hant": "湯品",
+      "zh-Hans": "汤品"
+    },
+    "side_salad_small": {
+      "ja": "サラダ小",
+      "en": "Small Salad",
+      "fr": "Petite salade",
+      "ko": "샐러드 (소)",
+      "zh-Hant": "小份沙拉",
+      "zh-Hans": "小份沙拉"
+    },
+    "side_garlic_toast": {
+      "ja": "ガーリックトースト",
+      "en": "Garlic Toast",
+      "fr": "Toast à l'ail",
+      "ko": "갈릭 토스트",
+      "zh-Hant": "蒜香吐司",
+      "zh-Hans": "蒜香吐司"
+    },
+    "side_bread": {
+      "ja": "パン",
+      "en": "Bread",
+      "fr": "Pain",
+      "ko": "빵",
+      "zh-Hant": "麵包",
+      "zh-Hans": "面包"
+    },
+    "side_garlic_rice": {
+      "ja": "ガーリックライス",
+      "en": "Garlic Rice",
+      "fr": "Riz à l'ail",
+      "ko": "갈릭 라이스",
+      "zh-Hant": "蒜香炒飯",
+      "zh-Hans": "蒜香炒饭"
+    },
+    "section_hamburg_eyebrow": {
+      "ja": "Hamburg Steak",
+      "en": "Hamburg Steak",
+      "fr": "Steak Haché",
+      "ko": "Hamburg Steak",
+      "zh-Hant": "Hamburg Steak",
+      "zh-Hans": "Hamburg Steak"
+    },
+    "section_hamburg_title": {
+      "ja": "ハンバーグ",
+      "en": "Hamburg Steak",
+      "fr": "Steak haché",
+      "ko": "햄버그",
+      "zh-Hant": "漢堡排",
+      "zh-Hans": "汉堡排"
+    },
+    "item_chum_hamburger_alt": {
+      "ja": "チャムハンバーグ",
+      "en": "Chum Hamburg",
+      "fr": "Hamburger maison Chum",
+      "ko": "챔 햄버그",
+      "zh-Hant": "Chum 漢堡排",
+      "zh-Hans": "Chum 汉堡排"
+    },
+    "item_chum_hamburger_name": {
+      "ja": "チャムハンバーグ",
+      "en": "Chum Hamburg",
+      "fr": "Hamburger maison Chum",
+      "ko": "챔 햄버그",
+      "zh-Hant": "Chum 漢堡排",
+      "zh-Hans": "Chum 汉堡排"
+    },
+    "item_chum_hamburger_name_en": {
+      "ja": "Chum Hamburg",
+      "en": "Chum Hamburg",
+      "fr": "Chum Hamburg",
+      "ko": "Chum Hamburg",
+      "zh-Hant": "Chum Hamburg",
+      "zh-Hans": "Chum Hamburg"
+    },
+    "item_chum_hamburger_desc": {
+      "ja": "本来ステーキとして食べられる肉を、ハンバーグに仕立てました。\n沖縄経産牛100%。臭みのないクリアな旨味と、健康な牛ならではの、しっかりとした肉の甘み。\nつなぎは最小限。肉そのものの味を楽しんでいただくハンバーグです。",
+      "en": "Crafted from meat that would normally be served as steak.\n100% Okinawa aged beef. A clean, pure umami without any gaminess, and the deep meaty sweetness only healthy cattle can offer.\nWe use minimal binders — this hamburg is all about the meat itself.",
+      "fr": "Préparé avec une viande qui serait normalement servie en steak.\n100 % bœuf vieilli d'Okinawa. Un umami pur, sans aucune note animale, et la profondeur sucrée et carnée propre à un bœuf en parfaite santé.\nNous limitons les liants au strict minimum — ce steak haché met la viande seule en valeur.",
+      "ko": "본래 스테이크로 제공되는 고기를 햄버그로 만들었습니다.\n오키나와 경산우 100%. 잡내가 없는 클리어한 감칠맛과, 건강한 소만이 가진 묵직한 고기의 단맛.\n결착제는 최소한으로. 고기 본연의 맛을 즐기시는 햄버그입니다.",
+      "zh-Hant": "原本作為牛排享用的肉,製成漢堡排。\n沖繩經產牛100%。無腥味的純淨鮮味,與健康牛隻才有的扎實肉甜。\n粘合料最少。是品味肉本身風味的漢堡排。",
+      "zh-Hans": "原本作为牛排享用的肉,制成汉堡排。\n冲绳经产牛100%。无腥味的纯净鲜味,与健康牛只才有的扎实肉甜。\n黏合料最少。是品味肉本身风味的汉堡排。"
+    },
+    "item_hamburger_steak_alt": {
+      "ja": "ハンバーグ＆ステーキ",
+      "en": "Hamburg & Steak",
+      "fr": "Hamburger & Steak",
+      "ko": "햄버그 & 스테이크",
+      "zh-Hant": "漢堡排與牛排",
+      "zh-Hans": "汉堡排与牛排"
+    },
+    "item_hamburger_steak_name": {
+      "ja": "ハンバーグ＆ステーキ",
+      "en": "Hamburg & Steak",
+      "fr": "Hamburger & Steak",
+      "ko": "햄버그 & 스테이크",
+      "zh-Hant": "漢堡排與牛排",
+      "zh-Hans": "汉堡排与牛排"
+    },
+    "item_hamburger_steak_name_en": {
+      "ja": "Hamburg & Steak",
+      "en": "Hamburg & Steak",
+      "fr": "Hamburg & Steak",
+      "ko": "Hamburg & Steak",
+      "zh-Hant": "Hamburg & Steak",
+      "zh-Hans": "Hamburg & Steak"
+    },
+    "item_hamburger_steak_desc": {
+      "ja": "チャムハンバーグ(100g)と、ステーキを組み合わせた一皿。\n肩ロース・チャムステーキ・サーロイン・リヴロース・希少部位（ミスジ・ハラミ・ザブトン）からお選びいただけます。",
+      "en": "A plate combining Chum Hamburg (100g) with a steak of your choice.\nChoose from Shoulder Loin, Chum Steak, Sirloin, Rib Roast, or Rare Cuts (Misuji / Harami / Zabuton).",
+      "fr": "Une assiette associant le hamburger maison Chum (100g) et un steak au choix.\nFaux-filet d'épaule, Chum Steak, aloyau, côte de bœuf ou pièces rares (Misuji / Harami / Zabuton) au choix.",
+      "ko": "챔 햄버그(100g)와 스테이크를 조합한 한 접시.\n숄더 로인・챔 스테이크・설로인・립 로스트・희소 부위(미스지・하라미・자부톤)에서 선택하실 수 있습니다.",
+      "zh-Hant": "Chum 漢堡排(100g)與牛排的組合料理。\n可從肩里肌・Chum 牛排・沙朗・肋眼・稀有部位(嫩肩里肌・橫膈膜・板腱)中選擇。",
+      "zh-Hans": "Chum 汉堡排(100g)与牛排的组合料理。\n可从肩里脊・Chum 牛排・西冷・肋眼・稀有部位(嫩肩里脊・横膈膜・板腱)中选择。"
+    },
+    "item_hamburger_steak_note_no_fillet": {
+      "ja": "※ ヒレは対応外",
+      "en": "※ Fillet not available for this combination",
+      "fr": "※ Le filet n'est pas disponible pour cette association",
+      "ko": "※ 안심은 선택 불가",
+      "zh-Hant": "※ 不含菲力",
+      "zh-Hans": "※ 不含菲力"
+    },
+    "section_pasta_eyebrow": {
+      "ja": "Pasta",
+      "en": "Pasta",
+      "fr": "Pâtes",
+      "ko": "Pasta",
+      "zh-Hant": "Pasta",
+      "zh-Hans": "Pasta"
+    },
+    "section_pasta_title": {
+      "ja": "パスタ",
+      "en": "Pasta",
+      "fr": "Pâtes",
+      "ko": "파스타",
+      "zh-Hant": "義大利麵",
+      "zh-Hans": "意大利面"
+    },
+    "section_pasta_lede": {
+      "ja": "※ その他、季節や仕入れによってパスタの内容は変わります。",
+      "en": "※ Pasta varieties change with the season and our deliveries.",
+      "fr": "※ Les pâtes changent selon la saison et les arrivages.",
+      "ko": "※ 그 외, 계절과 입고에 따라 파스타 내용이 달라집니다.",
+      "zh-Hant": "※ 其他依季節與進貨,義大利麵內容會有變化。",
+      "zh-Hans": "※ 其他依季节与进货,意大利面内容会有变化。"
+    },
+    "item_puttanesca_alt": {
+      "ja": "プッタネスカ",
+      "en": "Spaghetti alla Puttanesca",
+      "fr": "Spaghetti alla Puttanesca",
+      "ko": "푸타네스카",
+      "zh-Hant": "煙花女義大利麵",
+      "zh-Hans": "烟花女意面"
+    },
+    "item_puttanesca_name": {
+      "ja": "プッタネスカ",
+      "en": "Puttanesca",
+      "fr": "Puttanesca",
+      "ko": "푸타네스카",
+      "zh-Hant": "煙花女義大利麵",
+      "zh-Hans": "烟花女意面"
+    },
+    "item_puttanesca_name_en": {
+      "ja": "Spaghetti alla Puttanesca",
+      "en": "Spaghetti alla Puttanesca",
+      "fr": "Spaghetti alla Puttanesca",
+      "ko": "Spaghetti alla Puttanesca",
+      "zh-Hant": "Spaghetti alla Puttanesca",
+      "zh-Hans": "Spaghetti alla Puttanesca"
+    },
+    "item_puttanesca_desc": {
+      "ja": "トマトソースに、オリーブとケッパーの塩気、アンチョビの旨味を重ねた、南イタリア伝統のパスタ。",
+      "en": "A traditional southern Italian pasta layering tomato sauce with the salty bite of olives and capers and the umami of anchovies.",
+      "fr": "Une pâte traditionnelle du sud de l'Italie qui superpose la sauce tomate, le mordant salé des olives et des câpres, et l'umami des anchois.",
+      "ko": "토마토 소스에 올리브와 케이퍼의 짠맛, 안초비의 감칠맛을 더한 남이탈리아 전통 파스타.",
+      "zh-Hant": "在番茄醬汁中,疊上橄欖與酸豆的鹹香、鯷魚的鮮味,南義大利的傳統料理。",
+      "zh-Hans": "在番茄酱汁中,叠上橄榄与酸豆的咸香、鳀鱼的鲜味,南意大利的传统料理。"
+    },
+    "item_pancetta_pasta_alt": {
+      "ja": "自家製パンチェッタのパスタ",
+      "en": "Homemade Pancetta Pasta",
+      "fr": "Pâtes à la pancetta maison",
+      "ko": "수제 판체타 파스타",
+      "zh-Hant": "自製培根義大利麵",
+      "zh-Hans": "自制培根意面"
+    },
+    "item_pancetta_pasta_name": {
+      "ja": "自家製パンチェッタのパスタ",
+      "en": "Homemade Pancetta Pasta",
+      "fr": "Pâtes à la pancetta maison",
+      "ko": "수제 판체타 파스타",
+      "zh-Hant": "自製培根義大利麵",
+      "zh-Hans": "自制培根意面"
+    },
+    "item_pancetta_pasta_name_en": {
+      "ja": "Homemade Pancetta Pasta",
+      "en": "Homemade Pancetta Pasta",
+      "fr": "Homemade Pancetta Pasta",
+      "ko": "Homemade Pancetta Pasta",
+      "zh-Hant": "Homemade Pancetta Pasta",
+      "zh-Hans": "Homemade Pancetta Pasta"
+    },
+    "item_pancetta_pasta_desc": {
+      "ja": "アグー豚または三元豚を使った自家製パンチェッタを、チャムの厨房で時間をかけて仕込んでいます。パスタの内容は季節や仕入れによって変わります。\n※本日の内容は店頭にてご案内します",
+      "en": "Pancetta made in-house from Agu pork or three-breed pork, cured slowly in our kitchen. Pasta style varies with the season and our deliveries.\n※ Today's preparation will be explained at your table.",
+      "fr": "Pancetta préparée maison à partir de porc Agu ou de porc triple race, lentement maturée dans notre cuisine. La préparation des pâtes change selon la saison et les arrivages.\n※ Le plat du jour vous sera présenté en salle.",
+      "ko": "아구돼지 또는 삼원돼지로 만든 수제 판체타를, 챔의 주방에서 시간을 들여 숙성시키고 있습니다. 파스타의 내용은 계절과 입고에 따라 달라집니다.\n※ 오늘의 내용은 매장에서 안내드립니다",
+      "zh-Hant": "使用アグー豬或三元豬製作的自製培根,在 Chum 廚房中花時間醃製。義大利麵內容依季節與進貨變化。\n※當日內容於店內為您介紹",
+      "zh-Hans": "使用アグー猪或三元猪制作的自制培根,在 Chum 厨房中花时间腌制。意面内容依季节与进货变化。\n※当日内容于店内为您介绍"
+    },
+    "section_curry_eyebrow": {
+      "ja": "Spice Curry",
+      "en": "Spice Curry",
+      "fr": "Curry aux épices",
+      "ko": "Spice Curry",
+      "zh-Hant": "Spice Curry",
+      "zh-Hans": "Spice Curry"
+    },
+    "section_curry_title": {
+      "ja": "カレー",
+      "en": "Curry",
+      "fr": "Curry",
+      "ko": "카레",
+      "zh-Hant": "咖哩",
+      "zh-Hans": "咖喱"
+    },
+    "item_curry_alt": {
+      "ja": "チャムのホールスパイスカレー",
+      "en": "Chum's Whole-Spice Curry",
+      "fr": "Curry aux épices entières de Chum",
+      "ko": "챔의 홀 스파이스 카레",
+      "zh-Hant": "Chum 的整顆香料咖哩",
+      "zh-Hans": "Chum 的整颗香料咖喱"
+    },
+    "item_curry_name": {
+      "ja": "チャムのホールスパイスカレー",
+      "en": "Chum's Whole-Spice Curry",
+      "fr": "Curry aux épices entières de Chum",
+      "ko": "챔의 홀 스파이스 카레",
+      "zh-Hant": "Chum 的整顆香料咖哩",
+      "zh-Hans": "Chum 的整颗香料咖喱"
+    },
+    "item_curry_name_en": {
+      "ja": "Chum's Whole-Spice Curry",
+      "en": "Chum's Whole-Spice Curry",
+      "fr": "Chum's Whole-Spice Curry",
+      "ko": "Chum's Whole-Spice Curry",
+      "zh-Hant": "Chum's Whole-Spice Curry",
+      "zh-Hans": "Chum's Whole-Spice Curry"
+    },
+    "item_curry_desc": {
+      "ja": "5種のホールスパイスをテンパリングし、牛すじから引き出した旨味と、スパイスの香りが重なる本格カレー。\n※季節によりトッピングの野菜が変わります",
+      "en": "An authentic curry where five whole spices are tempered to release their aroma, layered with deep umami drawn from beef tendon.\n※ Vegetable toppings change with the season.",
+      "fr": "Un curry authentique où cinq épices entières sont tempérées pour libérer leur arôme, en couches avec l'umami profond du tendon de bœuf.\n※ Les légumes en garniture changent selon la saison.",
+      "ko": "5종의 홀 스파이스를 템퍼링하여, 소힘줄에서 우려낸 감칠맛과 스파이스의 향이 어우러지는 본격 카레.\n※ 계절에 따라 토핑 야채가 달라집니다",
+      "zh-Hant": "將 5 種整顆香料以油溫炸出香氣,與牛筋熬出的鮮味交織的正宗咖哩。\n※依季節,搭配蔬菜會有變化",
+      "zh-Hans": "将 5 种整颗香料以油温炸出香气,与牛筋熬出的鲜味交织的正宗咖喱。\n※依季节,搭配蔬菜会有变化"
+    },
+    "section_sandwich_eyebrow": {
+      "ja": "Sandwiches",
+      "en": "Sandwiches",
+      "fr": "Sandwiches",
+      "ko": "Sandwiches",
+      "zh-Hant": "Sandwiches",
+      "zh-Hans": "Sandwiches"
+    },
+    "section_sandwich_title": {
+      "ja": "サンドイッチ",
+      "en": "Sandwiches",
+      "fr": "Sandwiches",
+      "ko": "샌드위치",
+      "zh-Hant": "三明治",
+      "zh-Hans": "三明治"
+    },
+    "item_cheese_steak_sandwich_alt": {
+      "ja": "チーズステーキサンド",
+      "en": "Cheese Steak Sandwich",
+      "fr": "Sandwich Cheese Steak",
+      "ko": "치즈 스테이크 샌드",
+      "zh-Hant": "起司牛排三明治",
+      "zh-Hans": "起司牛排三明治"
+    },
+    "item_cheese_steak_sandwich_name": {
+      "ja": "チーズステーキサンド",
+      "en": "Cheese Steak Sandwich",
+      "fr": "Sandwich Cheese Steak",
+      "ko": "치즈 스테이크 샌드",
+      "zh-Hant": "起司牛排三明治",
+      "zh-Hans": "起司牛排三明治"
+    },
+    "item_cheese_steak_sandwich_name_en": {
+      "ja": "Cheese Steak Sandwich",
+      "en": "Cheese Steak Sandwich",
+      "fr": "Cheese Steak Sandwich",
+      "ko": "Cheese Steak Sandwich",
+      "zh-Hant": "Cheese Steak Sandwich",
+      "zh-Hans": "Cheese Steak Sandwich"
+    },
+    "item_cheese_steak_sandwich_desc": {
+      "ja": "ステーキとチーズを、たっぷりとサンド。肉とチーズの濃厚な一皿です。",
+      "en": "Steak and cheese, generously sandwiched. A rich plate where the meat and cheese melt into one.",
+      "fr": "Steak et fromage, généreusement sandwichés. Un plat onctueux où la viande et le fromage ne font qu'un.",
+      "ko": "스테이크와 치즈를 듬뿍 샌드. 고기와 치즈의 진한 한 접시입니다.",
+      "zh-Hant": "牛排與起司,豪邁地夾入麵包。肉與起司交融的濃郁料理。",
+      "zh-Hans": "牛排与起司,豪迈地夹入面包。肉与起司交融的浓郁料理。"
+    },
+    "item_tacos_sandwich_alt": {
+      "ja": "タコスサンド",
+      "en": "Tacos Sandwich",
+      "fr": "Sandwich Tacos",
+      "ko": "타코스 샌드",
+      "zh-Hant": "墨西哥肉醬三明治",
+      "zh-Hans": "墨西哥肉酱三明治"
+    },
+    "item_tacos_sandwich_name": {
+      "ja": "タコスサンド",
+      "en": "Tacos Sandwich",
+      "fr": "Sandwich Tacos",
+      "ko": "타코스 샌드",
+      "zh-Hant": "墨西哥肉醬三明治",
+      "zh-Hans": "墨西哥肉酱三明治"
+    },
+    "item_tacos_sandwich_name_en": {
+      "ja": "Tacos Sandwich",
+      "en": "Tacos Sandwich",
+      "fr": "Tacos Sandwich",
+      "ko": "Tacos Sandwich",
+      "zh-Hant": "Tacos Sandwich",
+      "zh-Hans": "Tacos Sandwich"
+    },
+    "item_tacos_sandwich_desc": {
+      "ja": "スパイス香るタコミートを、サンドイッチに。肉の旨味とスパイスの香りが楽しめます。",
+      "en": "Spiced taco meat tucked into a sandwich. Savor the umami of the meat together with fragrant spices.",
+      "fr": "Viande à tacos épicée glissée dans un sandwich. Profitez de l'umami de la viande et du parfum des épices.",
+      "ko": "스파이스 향 가득한 타코 미트를 샌드위치로. 고기의 감칠맛과 스파이스의 향을 즐기실 수 있습니다.",
+      "zh-Hant": "香料風味的墨西哥肉醬,做成三明治。能享受肉的鮮味與香料的香氣。",
+      "zh-Hans": "香料风味的墨西哥肉酱,做成三明治。能享受肉的鲜味与香料的香气。"
+    },
+    "item_pulled_beef_sandwich_name": {
+      "ja": "プルドビーフサンド",
+      "en": "Pulled Beef Sandwich",
+      "fr": "Sandwich Pulled Beef",
+      "ko": "풀드 비프 샌드",
+      "zh-Hant": "手撕牛肉三明治",
+      "zh-Hans": "手撕牛肉三明治"
+    },
+    "item_pulled_beef_sandwich_name_en": {
+      "ja": "Pulled Beef Sandwich",
+      "en": "Pulled Beef Sandwich",
+      "fr": "Pulled Beef Sandwich",
+      "ko": "Pulled Beef Sandwich",
+      "zh-Hant": "Pulled Beef Sandwich",
+      "zh-Hans": "Pulled Beef Sandwich"
+    },
+    "item_pulled_beef_sandwich_desc": {
+      "ja": "JA石垣（沖縄県）の貴重な牛ネック肉を、燻製機でじっくり燻し、スパイスとハーブで煮込んだプルドビーフ。\n香り高い肉を、サンドイッチに仕立てました。",
+      "en": "Precious neck meat sourced from JA Ishigaki (Okinawa), slowly smoked, then simmered with spices and herbs into pulled beef. The fragrant meat is layered into a sandwich.",
+      "fr": "Précieuse viande de collier provenant de JA Ishigaki (Okinawa), fumée lentement puis mijotée aux épices et aux herbes en pulled beef. Cette viande parfumée est dressée en sandwich.",
+      "ko": "JA 이시가키(오키나와현)의 귀한 소목살을, 훈제기로 천천히 훈연한 뒤, 스파이스와 허브로 끓인 풀드 비프. 향 가득한 고기를 샌드위치로 완성했습니다.",
+      "zh-Hant": "JA 石垣(沖繩縣)的珍貴牛頸肉,以煙燻機慢燻後,以香料與香草燉煮成手撕牛肉。將香氣四溢的肉做成三明治。",
+      "zh-Hans": "JA 石垣(冲绳县)的珍贵牛颈肉,以烟熏机慢熏后,以香料与香草炖煮成手撕牛肉。将香气四溢的肉做成三明治。"
+    },
+    "item_pulled_beef_sandwich_stay_tuned": {
+      "ja": "— Stay tuned —",
+      "en": "— Stay tuned —",
+      "fr": "— Bientôt —",
+      "ko": "— Coming Soon —",
+      "zh-Hant": "— 敬請期待 —",
+      "zh-Hans": "— 敬请期待 —"
+    },
+    "section_bowl_plate_eyebrow": {
+      "ja": "Bowl & Plate",
+      "en": "Bowl & Plate",
+      "fr": "Bowl & Plate",
+      "ko": "Bowl & Plate",
+      "zh-Hant": "Bowl & Plate",
+      "zh-Hans": "Bowl & Plate"
+    },
+    "section_bowl_plate_title": {
+      "ja": "丼・プレート",
+      "en": "Bowls & Plates",
+      "fr": "Bols & Assiettes",
+      "ko": "덮밥・플레이트",
+      "zh-Hant": "丼飯・拼盤",
+      "zh-Hans": "盖饭・拼盘"
+    },
+    "item_yakiniku_plate_alt": {
+      "ja": "焼肉プレート",
+      "en": "Yakiniku Plate",
+      "fr": "Assiette Yakiniku",
+      "ko": "야키니쿠 플레이트",
+      "zh-Hant": "燒肉拼盤",
+      "zh-Hans": "烤肉拼盘"
+    },
+    "item_yakiniku_plate_name": {
+      "ja": "焼肉プレート",
+      "en": "Yakiniku Plate",
+      "fr": "Assiette Yakiniku",
+      "ko": "야키니쿠 플레이트",
+      "zh-Hant": "燒肉拼盤",
+      "zh-Hans": "烤肉拼盘"
+    },
+    "item_yakiniku_plate_name_en": {
+      "ja": "Yakiniku Plate",
+      "en": "Yakiniku Plate",
+      "fr": "Yakiniku Plate",
+      "ko": "Yakiniku Plate",
+      "zh-Hant": "Yakiniku Plate",
+      "zh-Hans": "Yakiniku Plate"
+    },
+    "item_yakiniku_plate_desc": {
+      "ja": "沖縄経産牛の焼肉プレート。肉の旨味をシンプルに楽しんでいただく一皿です。",
+      "en": "A yakiniku plate of Okinawa aged beef. A simple dish that lets the umami of the meat speak for itself.",
+      "fr": "Une assiette de yakiniku de bœuf vieilli d'Okinawa. Un plat simple qui laisse parler l'umami de la viande.",
+      "ko": "오키나와 경산우 야키니쿠 플레이트. 고기의 감칠맛을 심플하게 즐기시는 한 접시입니다.",
+      "zh-Hant": "沖繩經產牛的燒肉拼盤。簡單品味肉之鮮味的一道料理。",
+      "zh-Hans": "冲绳经产牛的烤肉拼盘。简单品味肉之鲜味的一道料理。"
+    },
+    "item_roast_beef_bowl_alt": {
+      "ja": "ローストビーフ丼",
+      "en": "Roast Beef Bowl",
+      "fr": "Bowl de rosbif",
+      "ko": "로스트비프 덮밥",
+      "zh-Hant": "烤牛肉丼",
+      "zh-Hans": "烤牛肉盖饭"
+    },
+    "item_roast_beef_bowl_name": {
+      "ja": "ローストビーフ丼",
+      "en": "Roast Beef Bowl",
+      "fr": "Bowl de rosbif",
+      "ko": "로스트비프 덮밥",
+      "zh-Hant": "烤牛肉丼",
+      "zh-Hans": "烤牛肉盖饭"
+    },
+    "item_roast_beef_bowl_name_en": {
+      "ja": "Roast Beef Bowl",
+      "en": "Roast Beef Bowl",
+      "fr": "Roast Beef Bowl",
+      "ko": "Roast Beef Bowl",
+      "zh-Hant": "Roast Beef Bowl",
+      "zh-Hans": "Roast Beef Bowl"
+    },
+    "item_roast_beef_bowl_desc": {
+      "ja": "沖縄経産牛のローストビーフを、丼に仕立てた人気メニューです。",
+      "en": "A popular bowl crowned with roast beef from Okinawa aged beef.",
+      "fr": "Un bol populaire couronné de rosbif de bœuf vieilli d'Okinawa.",
+      "ko": "오키나와 경산우의 로스트비프를 덮밥으로 만든 인기 메뉴입니다.",
+      "zh-Hant": "將沖繩經產牛的烤牛肉做成丼飯的人氣料理。",
+      "zh-Hans": "将冲绳经产牛的烤牛肉做成盖饭的人气料理。"
+    },
+    "section_alacarte_eyebrow": {
+      "ja": "À la carte",
+      "en": "À la carte",
+      "fr": "À la carte",
+      "ko": "À la carte",
+      "zh-Hant": "À la carte",
+      "zh-Hans": "À la carte"
+    },
+    "section_alacarte_title": {
+      "ja": "アラカルト",
+      "en": "À la carte",
+      "fr": "À la carte",
+      "ko": "아라카르트",
+      "zh-Hant": "單點料理",
+      "zh-Hans": "单点料理"
+    },
+    "section_alacarte_lede": {
+      "ja": "ステーキやハンバーグに、もう一品。\nその日の仕入れに合わせた小皿料理をご用意しています。",
+      "en": "One more dish to complement your steak or hamburg.\nA selection of small plates matched to that day's deliveries.",
+      "fr": "Une assiette de plus pour accompagner votre steak ou votre hamburger.\nUne sélection de petits plats au gré des arrivages du jour.",
+      "ko": "스테이크나 햄버그에 한 접시 더.\n그날의 입고에 맞춘 소품 요리를 준비하고 있습니다.",
+      "zh-Hant": "牛排或漢堡排,再添一道料理。\n依當日進貨,為您準備小份料理。",
+      "zh-Hans": "牛排或汉堡排,再添一道料理。\n依当日进货,为您准备小份料理。"
+    },
+    "alacarte_list_aria": {
+      "ja": "アラカルトメニュー",
+      "en": "À la carte menu",
+      "fr": "Menu à la carte",
+      "ko": "아라카르트 메뉴",
+      "zh-Hant": "單點菜單",
+      "zh-Hans": "单点菜单"
+    },
+    "alacarte_marinade": {
+      "ja": "マリネ",
+      "en": "Marinade",
+      "fr": "Marinade",
+      "ko": "마리네",
+      "zh-Hant": "醃漬",
+      "zh-Hans": "腌渍"
+    },
+    "alacarte_prosciutto": {
+      "ja": "生ハム",
+      "en": "Prosciutto",
+      "fr": "Jambon cru",
+      "ko": "생햄",
+      "zh-Hant": "生火腿",
+      "zh-Hans": "生火腿"
+    },
+    "alacarte_chili_beans": {
+      "ja": "チリビーンズ",
+      "en": "Chili Beans",
+      "fr": "Chili con carne",
+      "ko": "칠리 빈즈",
+      "zh-Hant": "辣味豆",
+      "zh-Hans": "辣味豆"
+    },
+    "alacarte_fries": {
+      "ja": "フライドポテト",
+      "en": "French Fries",
+      "fr": "Frites",
+      "ko": "프렌치 프라이",
+      "zh-Hant": "薯條",
+      "zh-Hans": "薯条"
+    },
+    "alacarte_ajillo": {
+      "ja": "アヒージョ",
+      "en": "Ajillo",
+      "fr": "Ajillo",
+      "ko": "아히요",
+      "zh-Hant": "西班牙蒜油料理",
+      "zh-Hans": "西班牙蒜油料理"
+    },
+    "alacarte_german_potato": {
+      "ja": "ジャーマンポテト",
+      "en": "German Potato",
+      "fr": "Pommes de terre allemandes",
+      "ko": "저먼 포테이토",
+      "zh-Hant": "德式馬鈴薯",
+      "zh-Hans": "德式马铃薯"
+    },
+    "alacarte_garlic_shrimp": {
+      "ja": "ガーリックシュリンプ",
+      "en": "Garlic Shrimp",
+      "fr": "Crevettes à l'ail",
+      "ko": "갈릭 슈림프",
+      "zh-Hant": "蒜香蝦",
+      "zh-Hans": "蒜香虾"
+    },
+    "alacarte_salad_today": {
+      "ja": "本日のサラダ",
+      "en": "Today's Salad",
+      "fr": "Salade du jour",
+      "ko": "오늘의 샐러드",
+      "zh-Hant": "今日沙拉",
+      "zh-Hans": "今日沙拉"
+    },
+    "alacarte_caprese": {
+      "ja": "カプレーゼ",
+      "en": "Caprese",
+      "fr": "Caprese",
+      "ko": "카프레제",
+      "zh-Hant": "卡布里沙拉",
+      "zh-Hans": "卡布里沙拉"
+    },
+    "alacarte_roast_beef_salad": {
+      "ja": "ローストビーフサラダ",
+      "en": "Roast Beef Salad",
+      "fr": "Salade de rosbif",
+      "ko": "로스트비프 샐러드",
+      "zh-Hant": "烤牛肉沙拉",
+      "zh-Hans": "烤牛肉沙拉"
+    },
+    "alacarte_chinjao_rosu": {
+      "ja": "青椒肉絲",
+      "en": "Pepper Steak Stir-fry (Chinjao Rōsu)",
+      "fr": "Bœuf aux poivrons (Chinjao Rōsu)",
+      "ko": "칭쟈오로스 (피망 소고기 볶음)",
+      "zh-Hant": "青椒肉絲",
+      "zh-Hans": "青椒肉丝"
+    },
+    "alacarte_mapo_tofu": {
+      "ja": "麻婆豆腐",
+      "en": "Mapo Tofu",
+      "fr": "Mapo Tofu",
+      "ko": "마파두부",
+      "zh-Hant": "麻婆豆腐",
+      "zh-Hans": "麻婆豆腐"
+    },
+    "alacarte_price_note": {
+      "ja": "全て税込価格",
+      "en": "All prices tax included",
+      "fr": "Tous les prix TTC",
+      "ko": "모든 가격 부가세 포함",
+      "zh-Hant": "所有價格皆含稅",
+      "zh-Hans": "所有价格皆含税"
+    },
+    "lunch_drinks_eyebrow": {
+      "ja": "Lunch Drinks",
+      "en": "Lunch Drinks",
+      "fr": "Boissons du déjeuner",
+      "ko": "Lunch Drinks",
+      "zh-Hant": "Lunch Drinks",
+      "zh-Hans": "Lunch Drinks"
+    },
+    "lunch_drinks_title": {
+      "ja": "〈ランチタイムのお飲み物について〉",
+      "en": "〈About Lunch-Set Drinks〉",
+      "fr": "〈Boissons du menu déjeuner〉",
+      "ko": "〈런치 타임 음료 안내〉",
+      "zh-Hant": "〈關於午餐套餐飲品〉",
+      "zh-Hans": "〈关于午餐套餐饮品〉"
+    },
+    "lunch_drinks_lead": {
+      "ja": "ランチセットには、以下のお飲み物のいずれかが付きます。",
+      "en": "A choice of the following drinks comes with the lunch set:",
+      "fr": "Le menu déjeuner inclut une des boissons suivantes :",
+      "ko": "런치 세트에는 다음의 음료 중 하나가 포함됩니다.",
+      "zh-Hant": "午餐套餐附以下飲品擇一:",
+      "zh-Hans": "午餐套餐附以下饮品择一:"
+    },
+    "lunch_drink_hot_coffee": {
+      "ja": "ホットコーヒー",
+      "en": "Hot Coffee",
+      "fr": "Café chaud",
+      "ko": "핫 커피",
+      "zh-Hant": "熱咖啡",
+      "zh-Hans": "热咖啡"
+    },
+    "lunch_drink_iced_coffee": {
+      "ja": "アイスコーヒー",
+      "en": "Iced Coffee",
+      "fr": "Café glacé",
+      "ko": "아이스 커피",
+      "zh-Hant": "冰咖啡",
+      "zh-Hans": "冰咖啡"
+    },
+    "lunch_drink_espresso": {
+      "ja": "エスプレッソ",
+      "en": "Espresso",
+      "fr": "Espresso",
+      "ko": "에스프레소",
+      "zh-Hant": "義式濃縮咖啡",
+      "zh-Hans": "意式浓缩咖啡"
+    },
+    "lunch_drink_hot_tea": {
+      "ja": "ホット紅茶",
+      "en": "Hot Tea",
+      "fr": "Thé chaud",
+      "ko": "핫 티",
+      "zh-Hant": "熱紅茶",
+      "zh-Hans": "热红茶"
+    },
+    "lunch_drink_iced_tea": {
+      "ja": "アイスティー",
+      "en": "Iced Tea",
+      "fr": "Thé glacé",
+      "ko": "아이스 티",
+      "zh-Hant": "冰紅茶",
+      "zh-Hans": "冰红茶"
+    },
+    "lunch_drink_apple_juice": {
+      "ja": "アップルジュース",
+      "en": "Apple Juice",
+      "fr": "Jus de pomme",
+      "ko": "사과 주스",
+      "zh-Hant": "蘋果汁",
+      "zh-Hans": "苹果汁"
+    },
+    "lunch_drink_orange_juice": {
+      "ja": "オレンジジュース",
+      "en": "Orange Juice",
+      "fr": "Jus d'orange",
+      "ko": "오렌지 주스",
+      "zh-Hant": "柳橙汁",
+      "zh-Hans": "橙汁"
+    },
+    "lunch_drinks_upgrade_eyebrow": {
+      "ja": "— 追加グレードアップ —",
+      "en": "— Upgrade Options —",
+      "fr": "— Suppléments —",
+      "ko": "— 추가 업그레이드 —",
+      "zh-Hant": "— 升級加價 —",
+      "zh-Hans": "— 升级加价 —"
+    },
+    "lunch_upgrade_non_alcohol_beer": {
+      "ja": "ノンアルコールビール",
+      "en": "Non-Alcoholic Beer",
+      "fr": "Bière sans alcool",
+      "ko": "무알코올 맥주",
+      "zh-Hant": "無酒精啤酒",
+      "zh-Hans": "无酒精啤酒"
+    },
+    "lunch_upgrade_beer": {
+      "ja": "ビール（生 / ボトル）",
+      "en": "Beer (Draft / Bottle)",
+      "fr": "Bière (pression / bouteille)",
+      "ko": "맥주 (생 / 병)",
+      "zh-Hant": "啤酒(生啤／瓶裝)",
+      "zh-Hans": "啤酒(生啤／瓶装)"
+    },
+    "lunch_upgrade_house_wine": {
+      "ja": "ハウスワイン 赤 / 白",
+      "en": "House Wine, Red / White",
+      "fr": "Vin de la maison, Rouge / Blanc",
+      "ko": "하우스 와인 레드 / 화이트",
+      "zh-Hant": "招牌葡萄酒 紅／白",
+      "zh-Hans": "招牌葡萄酒 红／白"
+    },
+    "lunch_drinks_micro_note": {
+      "ja": "※ 価格は税込／ステーキ・ハンバーグ・パスタ・カレー等のランチセットメニューが対象です",
+      "en": "※ Prices tax included / Applies to lunch sets such as steak, hamburg, pasta and curry",
+      "fr": "※ Prix TTC / S'applique aux menus déjeuner steak, hamburger, pâtes, curry, etc.",
+      "ko": "※ 가격은 부가세 포함 / 스테이크・햄버그・파스타・카레 등의 런치 세트 메뉴가 대상입니다",
+      "zh-Hant": "※價格含稅／適用於牛排・漢堡排・義大利麵・咖哩等午餐套餐",
+      "zh-Hans": "※价格含税／适用于牛排・汉堡排・意大利面・咖喱等午餐套餐"
+    },
+    "more_menus_title": {
+      "ja": "テイクアウト・ドリンク",
+      "en": "Takeout & Drinks",
+      "fr": "À emporter & Boissons",
+      "ko": "테이크아웃・드링크",
+      "zh-Hant": "外帶・飲品",
+      "zh-Hans": "外带・饮品"
+    },
+    "more_menus_desc": {
+      "ja": "お弁当・サンドイッチ・お飲み物もご用意しています。\n店内と同じ沖縄経産牛で。",
+      "en": "Bento, sandwiches and drinks are also available.\nMade with the same Okinawa aged beef as our dine-in menu.",
+      "fr": "Bentos, sandwichs et boissons également disponibles.\nÉlaborés avec le même bœuf vieilli d'Okinawa que nos plats en salle.",
+      "ko": "도시락・샌드위치・음료도 준비되어 있습니다.\n매장과 동일한 오키나와 경산우로.",
+      "zh-Hant": "另有便當・三明治・飲品。\n使用與店內相同的沖繩經產牛。",
+      "zh-Hans": "另有便当・三明治・饮品。\n使用与店内相同的冲绳经产牛。"
+    }
+  },
+  "drink": {
+    "meta_title": {
+      "ja": "ドリンク | CHUM APARTMENT チャムアパートメント",
+      "en": "Drinks | CHUM APARTMENT",
+      "fr": "Boissons | CHUM APARTMENT",
+      "ko": "드링크 | CHUM APARTMENT",
+      "zh-Hant": "飲品 | CHUM APARTMENT",
+      "zh-Hans": "饮品 | CHUM APARTMENT"
+    },
+    "meta_description": {
+      "ja": "CHUM APARTMENT（チャムアパートメント）のドリンクメニュー。ビール、ウイスキー、ワイン、自家製レモネード、コーヒー・紅茶など、ステーキに寄り添うこだわりのお飲み物。",
+      "en": "Drinks menu at CHUM APARTMENT. Beer, whiskey, wine, homemade lemonade, coffee and tea — carefully curated to pair with our steaks.",
+      "fr": "Menu des boissons au CHUM APARTMENT. Bières, whiskies, vins, limonade maison, café et thé — soigneusement choisis pour accompagner nos steaks.",
+      "ko": "CHUM APARTMENT 의 드링크 메뉴. 맥주・위스키・와인・수제 레모네이드・커피・홍차 등, 스테이크와 어울리는 엄선된 음료.",
+      "zh-Hant": "CHUM APARTMENT 的飲品菜單。啤酒、威士忌、葡萄酒、自製檸檬汁、咖啡與茶等,精心搭配牛排的飲品。",
+      "zh-Hans": "CHUM APARTMENT 的饮品菜单。啤酒、威士忌、葡萄酒、自制柠檬汁、咖啡与茶等,精心搭配牛排的饮品。"
+    },
+    "og_title": {
+      "ja": "ドリンク | CHUM APARTMENT",
+      "en": "Drinks | CHUM APARTMENT",
+      "fr": "Boissons | CHUM APARTMENT",
+      "ko": "드링크 | CHUM APARTMENT",
+      "zh-Hant": "飲品 | CHUM APARTMENT",
+      "zh-Hans": "饮品 | CHUM APARTMENT"
+    },
+    "og_description": {
+      "ja": "ステーキに寄り添う、こだわりのドリンクメニュー。",
+      "en": "A drinks menu carefully curated to pair with our steaks.",
+      "fr": "Un menu de boissons soigneusement choisi pour accompagner nos steaks.",
+      "ko": "스테이크와 어울리는 엄선된 드링크 메뉴.",
+      "zh-Hant": "精心搭配牛排的講究飲品菜單。",
+      "zh-Hans": "精心搭配牛排的讲究饮品菜单。"
+    },
+    "hero_title_en": {
+      "ja": "Drinks",
+      "en": "Drinks",
+      "fr": "Drinks",
+      "ko": "Drinks",
+      "zh-Hant": "Drinks",
+      "zh-Hans": "Drinks"
+    },
+    "hero_title_ja": {
+      "ja": "お飲み物",
+      "en": "Beverages",
+      "fr": "Nos Boissons",
+      "ko": "음료",
+      "zh-Hant": "飲品",
+      "zh-Hans": "饮品"
+    },
+    "hero_lede": {
+      "ja": "ステーキに寄り添う、こだわりのドリンクメニュー。\n沖縄経産牛の旨味を、一杯と共に。",
+      "en": "A drinks menu carefully curated to pair with our steaks.\nEnjoy the umami of Okinawa aged beef glass in hand.",
+      "fr": "Un menu de boissons soigneusement choisi pour accompagner nos steaks.\nSavourez l'umami du bœuf vieilli d'Okinawa, verre à la main.",
+      "ko": "스테이크와 어울리는 엄선된 드링크 메뉴.\n오키나와 경산우의 감칠맛을, 한 잔과 함께.",
+      "zh-Hant": "精心搭配牛排的講究飲品菜單。\n沖繩經產牛的鮮味,佐一杯。",
+      "zh-Hans": "精心搭配牛排的讲究饮品菜单。\n冲绳经产牛的鲜味,佐一杯。"
+    },
+    "tax_note_banner": {
+      "ja": "表示価格はすべて税込（消費税 10%）",
+      "en": "All prices include 10% consumption tax",
+      "fr": "Tous les prix TTC (TVA 10 %)",
+      "ko": "표시 가격은 모두 부가세 포함 (소비세 10%)",
+      "zh-Hant": "標示價格皆含稅(消費稅 10%)",
+      "zh-Hans": "标示价格皆含税(消费税 10%)"
+    },
+    "modifier_hot_iced": {
+      "ja": "（ホット / アイス）",
+      "en": "(Hot / Iced)",
+      "fr": "(chaud / glacé)",
+      "ko": "(핫 / 아이스)",
+      "zh-Hant": "(熱 / 冰)",
+      "zh-Hans": "(热 / 冰)"
+    },
+    "section_beer_eyebrow": {
+      "ja": "Beer",
+      "en": "Beer",
+      "fr": "Bière",
+      "ko": "Beer",
+      "zh-Hant": "Beer",
+      "zh-Hans": "Beer"
+    },
+    "section_beer_title": {
+      "ja": "🍺 ビール",
+      "en": "🍺 Beer",
+      "fr": "🍺 Bière",
+      "ko": "🍺 맥주",
+      "zh-Hant": "🍺 啤酒",
+      "zh-Hans": "🍺 啤酒"
+    },
+    "item_beer_alt": {
+      "ja": "ビール",
+      "en": "Beer",
+      "fr": "Bière",
+      "ko": "맥주",
+      "zh-Hant": "啤酒",
+      "zh-Hans": "啤酒"
+    },
+    "drink_draft_beer": {
+      "ja": "生ビール",
+      "en": "Draft Beer",
+      "fr": "Bière pression",
+      "ko": "생맥주",
+      "zh-Hant": "生啤酒",
+      "zh-Hans": "生啤酒"
+    },
+    "drink_bottle_beer": {
+      "ja": "ボトルビール",
+      "en": "Bottled Beer",
+      "fr": "Bière en bouteille",
+      "ko": "병맥주",
+      "zh-Hant": "瓶裝啤酒",
+      "zh-Hans": "瓶装啤酒"
+    },
+    "drink_non_alcohol_beer": {
+      "ja": "ノンアルコールビール",
+      "en": "Non-Alcoholic Beer",
+      "fr": "Bière sans alcool",
+      "ko": "무알코올 맥주",
+      "zh-Hant": "無酒精啤酒",
+      "zh-Hans": "无酒精啤酒"
+    },
+    "section_whiskey_eyebrow": {
+      "ja": "Whiskey",
+      "en": "Whiskey",
+      "fr": "Whisky",
+      "ko": "Whiskey",
+      "zh-Hant": "Whiskey",
+      "zh-Hans": "Whiskey"
+    },
+    "section_whiskey_title": {
+      "ja": "🥃 ウイスキー",
+      "en": "🥃 Whiskey",
+      "fr": "🥃 Whisky",
+      "ko": "🥃 위스키",
+      "zh-Hant": "🥃 威士忌",
+      "zh-Hans": "🥃 威士忌"
+    },
+    "item_whiskey_alt": {
+      "ja": "ウイスキー",
+      "en": "Whiskey",
+      "fr": "Whisky",
+      "ko": "위스키",
+      "zh-Hant": "威士忌",
+      "zh-Hans": "威士忌"
+    },
+    "drink_dewars": {
+      "ja": "デュワーズ",
+      "en": "Dewar's",
+      "fr": "Dewar's",
+      "ko": "듀어스",
+      "zh-Hant": "Dewar's",
+      "zh-Hans": "Dewar's"
+    },
+    "drink_johnnie_walker_black": {
+      "ja": "ジョニーウォーカー ブラック",
+      "en": "Johnnie Walker Black",
+      "fr": "Johnnie Walker Black",
+      "ko": "조니워커 블랙",
+      "zh-Hant": "Johnnie Walker Black",
+      "zh-Hans": "Johnnie Walker Black"
+    },
+    "drink_jack_daniels": {
+      "ja": "ジャックダニエル",
+      "en": "Jack Daniel's",
+      "fr": "Jack Daniel's",
+      "ko": "잭 다니엘",
+      "zh-Hant": "Jack Daniel's",
+      "zh-Hans": "Jack Daniel's"
+    },
+    "drink_iw_harper": {
+      "ja": "I.W. ハーパー",
+      "en": "I.W. Harper",
+      "fr": "I.W. Harper",
+      "ko": "I.W. 하퍼",
+      "zh-Hant": "I.W. Harper",
+      "zh-Hans": "I.W. Harper"
+    },
+    "drink_old_grand_dad": {
+      "ja": "オールド・グランダッド",
+      "en": "Old Grand-Dad",
+      "fr": "Old Grand-Dad",
+      "ko": "올드 그랜드 대드",
+      "zh-Hant": "Old Grand-Dad",
+      "zh-Hans": "Old Grand-Dad"
+    },
+    "drink_laphroaig": {
+      "ja": "ラフロイグ",
+      "en": "Laphroaig",
+      "fr": "Laphroaig",
+      "ko": "라프로익",
+      "zh-Hant": "Laphroaig",
+      "zh-Hans": "Laphroaig"
+    },
+    "drink_bowmore": {
+      "ja": "ボウモア",
+      "en": "Bowmore",
+      "fr": "Bowmore",
+      "ko": "보모어",
+      "zh-Hant": "Bowmore",
+      "zh-Hans": "Bowmore"
+    },
+    "section_wine_eyebrow": {
+      "ja": "Wine",
+      "en": "Wine",
+      "fr": "Vin",
+      "ko": "Wine",
+      "zh-Hant": "Wine",
+      "zh-Hans": "Wine"
+    },
+    "section_wine_title": {
+      "ja": "🍷 ワイン",
+      "en": "🍷 Wine",
+      "fr": "🍷 Vin",
+      "ko": "🍷 와인",
+      "zh-Hant": "🍷 葡萄酒",
+      "zh-Hans": "🍷 葡萄酒"
+    },
+    "item_wine_alt": {
+      "ja": "ワイン",
+      "en": "Wine",
+      "fr": "Vin",
+      "ko": "와인",
+      "zh-Hant": "葡萄酒",
+      "zh-Hans": "葡萄酒"
+    },
+    "drink_house_wine_red": {
+      "ja": "ハウスワイン 赤",
+      "en": "House Wine, Red",
+      "fr": "Vin de la maison, Rouge",
+      "ko": "하우스 와인 레드",
+      "zh-Hant": "招牌葡萄酒 紅",
+      "zh-Hans": "招牌葡萄酒 红"
+    },
+    "drink_house_wine_white": {
+      "ja": "ハウスワイン 白",
+      "en": "House Wine, White",
+      "fr": "Vin de la maison, Blanc",
+      "ko": "하우스 와인 화이트",
+      "zh-Hant": "招牌葡萄酒 白",
+      "zh-Hans": "招牌葡萄酒 白"
+    },
+    "section_highball_eyebrow": {
+      "ja": "Sour & Highball",
+      "en": "Sour & Highball",
+      "fr": "Sour & Highball",
+      "ko": "Sour & Highball",
+      "zh-Hant": "Sour & Highball",
+      "zh-Hans": "Sour & Highball"
+    },
+    "section_highball_title": {
+      "ja": "🥂 サワー・ハイボール",
+      "en": "🥂 Sour & Highball",
+      "fr": "🥂 Sour & Highball",
+      "ko": "🥂 사워・하이볼",
+      "zh-Hant": "🥂 沙瓦・Highball",
+      "zh-Hans": "🥂 沙瓦・Highball"
+    },
+    "item_highball_alt": {
+      "ja": "ハイボール",
+      "en": "Highball",
+      "fr": "Highball",
+      "ko": "하이볼",
+      "zh-Hant": "Highball",
+      "zh-Hans": "Highball"
+    },
+    "drink_highball": {
+      "ja": "ハイボール",
+      "en": "Highball",
+      "fr": "Highball",
+      "ko": "하이볼",
+      "zh-Hant": "Highball",
+      "zh-Hans": "Highball"
+    },
+    "drink_lemon_sour": {
+      "ja": "レモンサワー",
+      "en": "Lemon Sour",
+      "fr": "Lemon Sour",
+      "ko": "레몬 사워",
+      "zh-Hant": "檸檬沙瓦",
+      "zh-Hans": "柠檬沙瓦"
+    },
+    "drink_oolong_high": {
+      "ja": "ウーロンハイ",
+      "en": "Oolong-Hai (Shochu & Oolong)",
+      "fr": "Oolong-Hai (Shochu & Oolong)",
+      "ko": "우롱하이",
+      "zh-Hant": "烏龍 Hai (燒酎調烏龍茶)",
+      "zh-Hans": "乌龙 Hai (烧酎调乌龙茶)"
+    },
+    "section_coffee_eyebrow": {
+      "ja": "Coffee & Tea",
+      "en": "Coffee & Tea",
+      "fr": "Café & Thé",
+      "ko": "Coffee & Tea",
+      "zh-Hant": "Coffee & Tea",
+      "zh-Hans": "Coffee & Tea"
+    },
+    "section_coffee_title": {
+      "ja": "☕ コーヒー・紅茶",
+      "en": "☕ Coffee & Tea",
+      "fr": "☕ Café & Thé",
+      "ko": "☕ 커피・홍차",
+      "zh-Hant": "☕ 咖啡・茶飲",
+      "zh-Hans": "☕ 咖啡・茶饮"
+    },
+    "item_coffee_alt": {
+      "ja": "カフェラテ",
+      "en": "Caffè Latte",
+      "fr": "Caffè Latte",
+      "ko": "카페라떼",
+      "zh-Hant": "拿鐵咖啡",
+      "zh-Hans": "拿铁咖啡"
+    },
+    "drink_coffee": {
+      "ja": "コーヒー",
+      "en": "Coffee",
+      "fr": "Café",
+      "ko": "커피",
+      "zh-Hant": "咖啡",
+      "zh-Hans": "咖啡"
+    },
+    "drink_espresso": {
+      "ja": "エスプレッソ",
+      "en": "Espresso",
+      "fr": "Espresso",
+      "ko": "에스프레소",
+      "zh-Hant": "義式濃縮咖啡",
+      "zh-Hans": "意式浓缩咖啡"
+    },
+    "drink_cafe_latte": {
+      "ja": "カフェラテ",
+      "en": "Caffè Latte",
+      "fr": "Caffè Latte",
+      "ko": "카페라떼",
+      "zh-Hant": "拿鐵咖啡",
+      "zh-Hans": "拿铁咖啡"
+    },
+    "drink_cafe_mocha": {
+      "ja": "カフェモカ",
+      "en": "Caffè Mocha",
+      "fr": "Caffè Mocha",
+      "ko": "카페모카",
+      "zh-Hant": "摩卡咖啡",
+      "zh-Hans": "摩卡咖啡"
+    },
+    "drink_earl_grey": {
+      "ja": "アールグレイ",
+      "en": "Earl Grey",
+      "fr": "Earl Grey",
+      "ko": "얼그레이",
+      "zh-Hant": "伯爵紅茶",
+      "zh-Hans": "伯爵红茶"
+    },
+    "drink_chamomile": {
+      "ja": "カモミール",
+      "en": "Chamomile",
+      "fr": "Camomille",
+      "ko": "캐모마일",
+      "zh-Hant": "洋甘菊茶",
+      "zh-Hans": "洋甘菊茶"
+    },
+    "drink_jasmine": {
+      "ja": "ジャスミン",
+      "en": "Jasmine",
+      "fr": "Jasmin",
+      "ko": "재스민",
+      "zh-Hant": "茉莉花茶",
+      "zh-Hans": "茉莉花茶"
+    },
+    "section_soft_eyebrow": {
+      "ja": "Soft Drinks",
+      "en": "Soft Drinks",
+      "fr": "Boissons sans alcool",
+      "ko": "Soft Drinks",
+      "zh-Hant": "Soft Drinks",
+      "zh-Hans": "Soft Drinks"
+    },
+    "section_soft_title": {
+      "ja": "🥤 ソフトドリンク",
+      "en": "🥤 Soft Drinks",
+      "fr": "🥤 Boissons sans alcool",
+      "ko": "🥤 소프트 드링크",
+      "zh-Hant": "🥤 軟性飲料",
+      "zh-Hans": "🥤 软饮"
+    },
+    "item_soft_alt": {
+      "ja": "ソフトドリンク",
+      "en": "Soft Drink",
+      "fr": "Boisson sans alcool",
+      "ko": "소프트 드링크",
+      "zh-Hant": "軟性飲料",
+      "zh-Hans": "软饮"
+    },
+    "drink_cola": {
+      "ja": "コーラ",
+      "en": "Coca-Cola",
+      "fr": "Coca-Cola",
+      "ko": "콜라",
+      "zh-Hant": "可樂",
+      "zh-Hans": "可乐"
+    },
+    "drink_ginger_ale": {
+      "ja": "ジンジャーエール",
+      "en": "Ginger Ale",
+      "fr": "Ginger Ale",
+      "ko": "진저에일",
+      "zh-Hant": "薑汁汽水",
+      "zh-Hans": "姜汁汽水"
+    },
+    "drink_sanpellegrino": {
+      "ja": "サンペレグリノ",
+      "en": "San Pellegrino",
+      "fr": "San Pellegrino",
+      "ko": "산펠레그리노",
+      "zh-Hant": "聖沛黎洛氣泡水",
+      "zh-Hans": "圣培露气泡水"
+    },
+    "drink_orange_juice": {
+      "ja": "オレンジジュース",
+      "en": "Orange Juice",
+      "fr": "Jus d'orange",
+      "ko": "오렌지 주스",
+      "zh-Hant": "柳橙汁",
+      "zh-Hans": "橙汁"
+    },
+    "drink_grapefruit_juice": {
+      "ja": "グレープフルーツジュース",
+      "en": "Grapefruit Juice",
+      "fr": "Jus de pamplemousse",
+      "ko": "자몽 주스",
+      "zh-Hant": "葡萄柚汁",
+      "zh-Hans": "西柚汁"
+    },
+    "drink_apple_juice": {
+      "ja": "アップルジュース",
+      "en": "Apple Juice",
+      "fr": "Jus de pomme",
+      "ko": "사과 주스",
+      "zh-Hant": "蘋果汁",
+      "zh-Hans": "苹果汁"
+    },
+    "drink_oolong_tea": {
+      "ja": "ウーロン茶",
+      "en": "Oolong Tea",
+      "fr": "Thé oolong",
+      "ko": "우롱차",
+      "zh-Hant": "烏龍茶",
+      "zh-Hans": "乌龙茶"
+    },
+    "section_homemade_eyebrow": {
+      "ja": "Homemade",
+      "en": "Homemade",
+      "fr": "Fait maison",
+      "ko": "Homemade",
+      "zh-Hant": "Homemade",
+      "zh-Hans": "Homemade"
+    },
+    "section_homemade_title": {
+      "ja": "🍋 自家製ドリンク",
+      "en": "🍋 Homemade Drinks",
+      "fr": "🍋 Boissons maison",
+      "ko": "🍋 수제 드링크",
+      "zh-Hant": "🍋 自製飲品",
+      "zh-Hans": "🍋 自制饮品"
+    },
+    "item_homemade_alt": {
+      "ja": "自家製レモネード",
+      "en": "Homemade Lemonade",
+      "fr": "Limonade maison",
+      "ko": "수제 레모네이드",
+      "zh-Hant": "自製檸檬汁",
+      "zh-Hans": "自制柠檬汁"
+    },
+    "drink_homemade_lemonade": {
+      "ja": "自家製レモネード",
+      "en": "Homemade Lemonade",
+      "fr": "Limonade maison",
+      "ko": "수제 레모네이드",
+      "zh-Hant": "自製檸檬汁",
+      "zh-Hans": "自制柠檬汁"
+    },
+    "drink_lemon_squash": {
+      "ja": "レモンスカッシュ",
+      "en": "Lemon Squash",
+      "fr": "Lemon Squash",
+      "ko": "레몬 스쿼시",
+      "zh-Hant": "檸檬氣泡飲",
+      "zh-Hans": "柠檬气泡饮"
+    },
+    "drink_pink_lemonade": {
+      "ja": "ピンクレモネード",
+      "en": "Pink Lemonade",
+      "fr": "Limonade rose",
+      "ko": "핑크 레모네이드",
+      "zh-Hant": "粉紅檸檬汁",
+      "zh-Hans": "粉红柠檬汁"
+    },
+    "drink_lemon_tea_soda": {
+      "ja": "レモンティソーダ",
+      "en": "Lemon Tea Soda",
+      "fr": "Soda au thé citron",
+      "ko": "레몬티 소다",
+      "zh-Hant": "檸檬紅茶蘇打",
+      "zh-Hans": "柠檬红茶苏打"
+    },
+    "section_float_eyebrow": {
+      "ja": "Float",
+      "en": "Float",
+      "fr": "Float",
+      "ko": "Float",
+      "zh-Hant": "Float",
+      "zh-Hans": "Float"
+    },
+    "section_float_title": {
+      "ja": "🍨 フロート",
+      "en": "🍨 Float",
+      "fr": "🍨 Float",
+      "ko": "🍨 플로트",
+      "zh-Hant": "🍨 漂浮飲品",
+      "zh-Hans": "🍨 漂浮饮品"
+    },
+    "item_float_alt": {
+      "ja": "コーヒーフロート",
+      "en": "Coffee Float",
+      "fr": "Float au café",
+      "ko": "커피 플로트",
+      "zh-Hant": "咖啡漂浮",
+      "zh-Hans": "咖啡漂浮"
+    },
+    "drink_coffee_float": {
+      "ja": "コーヒーフロート",
+      "en": "Coffee Float",
+      "fr": "Float au café",
+      "ko": "커피 플로트",
+      "zh-Hant": "咖啡漂浮",
+      "zh-Hans": "咖啡漂浮"
+    },
+    "drink_cola_float": {
+      "ja": "コーラフロート",
+      "en": "Cola Float",
+      "fr": "Float au cola",
+      "ko": "콜라 플로트",
+      "zh-Hant": "可樂漂浮",
+      "zh-Hans": "可乐漂浮"
+    },
+    "drink_pink_cream_soda": {
+      "ja": "ピンククリームソーダ",
+      "en": "Pink Cream Soda",
+      "fr": "Soda crème rose",
+      "ko": "핑크 크림 소다",
+      "zh-Hant": "粉紅奶油蘇打",
+      "zh-Hans": "粉红奶油苏打"
+    },
+    "more_menus_title": {
+      "ja": "ほかのメニューも見る",
+      "en": "Explore Other Menus",
+      "fr": "Découvrir nos autres menus",
+      "ko": "다른 메뉴도 보기",
+      "zh-Hant": "查看其他菜單",
+      "zh-Hans": "查看其他菜单"
+    },
+    "more_menus_desc": {
+      "ja": "お料理は店内メニューと、お持ち帰りメニューがございます。",
+      "en": "We offer both dine-in and takeout menus.",
+      "fr": "Nous proposons un menu en salle et un menu à emporter.",
+      "ko": "매장 메뉴와 테이크아웃 메뉴가 준비되어 있습니다.",
+      "zh-Hant": "備有店內用餐菜單與外帶菜單。",
+      "zh-Hans": "备有店内用餐菜单与外带菜单。"
+    }
+  },
+  "takeout": {
+    "meta_title": {
+      "ja": "テイクアウト | CHUM APARTMENT チャムアパートメント",
+      "en": "Takeout | CHUM APARTMENT",
+      "fr": "À emporter | CHUM APARTMENT",
+      "ko": "테이크아웃 | CHUM APARTMENT",
+      "zh-Hant": "外帶 | CHUM APARTMENT",
+      "zh-Hans": "外带 | CHUM APARTMENT"
+    },
+    "meta_description": {
+      "ja": "CHUM APARTMENT（チャムアパートメント）のテイクアウトメニュー。沖縄経産牛のお弁当・サンドイッチ・カレー弁当。Uber Eats でのデリバリーにも対応。",
+      "en": "Takeout menu at CHUM APARTMENT. Bento and sandwiches with Okinawa aged beef. Uber Eats delivery available.",
+      "fr": "Menu à emporter du CHUM APARTMENT. Bentos et sandwichs au bœuf vieilli d'Okinawa. Livraison Uber Eats disponible.",
+      "ko": "CHUM APARTMENT 의 테이크아웃 메뉴. 오키나와 경산우 도시락・샌드위치・카레 도시락. Uber Eats 배달도 가능합니다.",
+      "zh-Hant": "CHUM APARTMENT 的外帶菜單。沖繩經產牛便當・三明治・咖哩便當。Uber Eats 外送服務。",
+      "zh-Hans": "CHUM APARTMENT 的外带菜单。冲绳经产牛便当・三明治・咖喱便当。Uber Eats 外送服务。"
+    },
+    "og_title": {
+      "ja": "テイクアウト | CHUM APARTMENT",
+      "en": "Takeout | CHUM APARTMENT",
+      "fr": "À emporter | CHUM APARTMENT",
+      "ko": "테이크아웃 | CHUM APARTMENT",
+      "zh-Hant": "外帶 | CHUM APARTMENT",
+      "zh-Hans": "外带 | CHUM APARTMENT"
+    },
+    "og_description": {
+      "ja": "ステーキレストランのテイクアウトメニュー。店内と同じ沖縄経産牛を使用しています。",
+      "en": "Our steakhouse takeout menu, made with the same Okinawa aged beef we serve in-house.",
+      "fr": "Le menu à emporter de notre maison du steak, élaboré avec le bœuf vieilli d'Okinawa servi en salle.",
+      "ko": "스테이크 레스토랑의 테이크아웃 메뉴. 매장과 동일한 오키나와 경산우를 사용하고 있습니다.",
+      "zh-Hant": "牛排餐廳的外帶菜單。使用與店內相同的沖繩經產牛。",
+      "zh-Hans": "牛排餐厅的外带菜单。使用与店内相同的冲绳经产牛。"
+    },
+    "hero_title_en": {
+      "ja": "Takeout",
+      "en": "Takeout",
+      "fr": "Takeout",
+      "ko": "Takeout",
+      "zh-Hant": "Takeout",
+      "zh-Hans": "Takeout"
+    },
+    "hero_title_ja": {
+      "ja": "テイクアウト",
+      "en": "To-Go",
+      "fr": "À emporter",
+      "ko": "테이크아웃",
+      "zh-Hant": "外帶",
+      "zh-Hans": "外带"
+    },
+    "hero_lede": {
+      "ja": "ステーキレストランのテイクアウトメニュー。\n店内と同じ沖縄経産牛を使用しています。",
+      "en": "Our steakhouse takeout menu.\nMade with the same Okinawa aged beef we serve in-house.",
+      "fr": "Le menu à emporter de notre maison du steak.\nÉlaboré avec le bœuf vieilli d'Okinawa servi en salle.",
+      "ko": "스테이크 레스토랑의 테이크아웃 메뉴.\n매장과 동일한 오키나와 경산우를 사용하고 있습니다.",
+      "zh-Hant": "牛排餐廳的外帶菜單。\n使用與店內相同的沖繩經產牛。",
+      "zh-Hans": "牛排餐厅的外带菜单。\n使用与店内相同的冲绳经产牛。"
+    },
+    "tax_note_banner": {
+      "ja": "表示価格はすべて税込（軽減税率 8%）",
+      "en": "All prices include 8% reduced consumption tax (takeout)",
+      "fr": "Tous les prix TTC (TVA réduite 8 % – à emporter)",
+      "ko": "표시 가격은 모두 부가세 포함 (경감세율 8%)",
+      "zh-Hant": "標示價格皆含稅(輕減稅率 8%)",
+      "zh-Hans": "标示价格皆含税(轻减税率 8%)"
+    },
+    "section_bento_eyebrow": {
+      "ja": "Bento",
+      "en": "Bento",
+      "fr": "Bento",
+      "ko": "Bento",
+      "zh-Hant": "Bento",
+      "zh-Hans": "Bento"
+    },
+    "section_bento_title": {
+      "ja": "お弁当",
+      "en": "Bento Boxes",
+      "fr": "Bentos",
+      "ko": "도시락",
+      "zh-Hant": "便當",
+      "zh-Hans": "便当"
+    },
+    "item_karubi_bowl_alt": {
+      "ja": "カルビ焼肉丼",
+      "en": "Karubi Yakiniku Bowl",
+      "fr": "Bowl Karubi Yakiniku",
+      "ko": "갈비 야키니쿠 덮밥",
+      "zh-Hant": "牛五花燒肉丼",
+      "zh-Hans": "牛五花烤肉盖饭"
+    },
+    "item_karubi_bowl_name": {
+      "ja": "カルビ焼肉丼",
+      "en": "Karubi Yakiniku Bowl",
+      "fr": "Bowl Karubi Yakiniku",
+      "ko": "갈비 야키니쿠 덮밥",
+      "zh-Hant": "牛五花燒肉丼",
+      "zh-Hans": "牛五花烤肉盖饭"
+    },
+    "item_karubi_bowl_name_en": {
+      "ja": "Karubi Yakiniku Bowl",
+      "en": "Karubi Yakiniku Bowl",
+      "fr": "Karubi Yakiniku Bowl",
+      "ko": "Karubi Yakiniku Bowl",
+      "zh-Hant": "Karubi Yakiniku Bowl",
+      "zh-Hans": "Karubi Yakiniku Bowl"
+    },
+    "item_karubi_bowl_desc": {
+      "ja": "旨味あふれる贅沢カルビ丼。",
+      "en": "An indulgent rice bowl brimming with umami-rich karubi (short rib).",
+      "fr": "Un bol gourmand débordant d'umami de karubi (short rib).",
+      "ko": "감칠맛 가득, 호화로운 갈비 덮밥입니다.",
+      "zh-Hant": "鮮味滿溢的奢華牛五花丼飯。",
+      "zh-Hans": "鲜味满溢的奢华牛五花盖饭。"
+    },
+    "item_hamburger_bento_alt": {
+      "ja": "ハンバーグ弁当",
+      "en": "Hamburg Bento",
+      "fr": "Bento Hamburger",
+      "ko": "햄버그 도시락",
+      "zh-Hant": "漢堡排便當",
+      "zh-Hans": "汉堡排便当"
+    },
+    "item_hamburger_bento_name": {
+      "ja": "ハンバーグ弁当",
+      "en": "Hamburg Bento",
+      "fr": "Bento Hamburger",
+      "ko": "햄버그 도시락",
+      "zh-Hant": "漢堡排便當",
+      "zh-Hans": "汉堡排便当"
+    },
+    "item_hamburger_bento_name_en": {
+      "ja": "Hamburg Bento",
+      "en": "Hamburg Bento",
+      "fr": "Hamburg Bento",
+      "ko": "Hamburg Bento",
+      "zh-Hant": "Hamburg Bento",
+      "zh-Hans": "Hamburg Bento"
+    },
+    "item_hamburger_bento_desc": {
+      "ja": "肉汁広がる王道ハンバーグ弁当。",
+      "en": "A classic juicy hamburg bento, bursting with meaty flavor.",
+      "fr": "Un bento hamburger classique et juteux, plein de saveur.",
+      "ko": "육즙이 가득한 정통 햄버그 도시락.",
+      "zh-Hant": "肉汁四溢的王道漢堡排便當。",
+      "zh-Hans": "肉汁四溢的王道汉堡排便当。"
+    },
+    "item_hamburger_bento_meta": {
+      "ja": "※ ハンバーグは10分ほどお時間をいただきます",
+      "en": "※ Hamburg takes about 10 minutes to prepare",
+      "fr": "※ Préparation du hamburger : environ 10 minutes",
+      "ko": "※ 햄버그는 약 10분 정도 시간이 소요됩니다",
+      "zh-Hant": "※漢堡排約需 10 分鐘製作時間",
+      "zh-Hans": "※汉堡排约需 10 分钟制作时间"
+    },
+    "item_beef_curry_bento_alt": {
+      "ja": "ビーフカレー弁当",
+      "en": "Beef Curry Bento",
+      "fr": "Bento Curry de bœuf",
+      "ko": "비프 카레 도시락",
+      "zh-Hant": "牛肉咖哩便當",
+      "zh-Hans": "牛肉咖喱便当"
+    },
+    "item_beef_curry_bento_name": {
+      "ja": "ビーフカレー弁当",
+      "en": "Beef Curry Bento",
+      "fr": "Bento Curry de bœuf",
+      "ko": "비프 카레 도시락",
+      "zh-Hant": "牛肉咖哩便當",
+      "zh-Hans": "牛肉咖喱便当"
+    },
+    "item_beef_curry_bento_name_en": {
+      "ja": "Beef Curry Bento",
+      "en": "Beef Curry Bento",
+      "fr": "Beef Curry Bento",
+      "ko": "Beef Curry Bento",
+      "zh-Hant": "Beef Curry Bento",
+      "zh-Hans": "Beef Curry Bento"
+    },
+    "item_beef_curry_bento_desc": {
+      "ja": "店内で人気のチャムのホールスパイスカレーを、お弁当でもお楽しみいただけます。5種のスパイスと、沖縄経産牛の旨味が、ご自宅でも香り立ちます。",
+      "en": "Enjoy Chum's popular whole-spice curry as a takeout bento. Five spices and the umami of Okinawa aged beef bloom right at your table.",
+      "fr": "Savourez le curry aux épices entières, signature de Chum, en bento à emporter. Cinq épices et l'umami du bœuf vieilli d'Okinawa s'épanouissent jusque chez vous.",
+      "ko": "매장에서 인기 있는 챔의 홀 스파이스 카레를 도시락으로도 즐기실 수 있습니다. 5종의 스파이스와 오키나와 경산우의 감칠맛이, 집에서도 향기롭게 피어납니다.",
+      "zh-Hant": "店內人氣的 Chum 整顆香料咖哩,做成便當享用。5 種香料與沖繩經產牛的鮮味,在家中也能香氣四溢。",
+      "zh-Hans": "店内人气的 Chum 整颗香料咖喱,做成便当享用。5 种香料与冲绳经产牛的鲜味,在家中也能香气四溢。"
+    },
+    "item_steak_bento_alt": {
+      "ja": "ステーキ弁当",
+      "en": "Steak Bento",
+      "fr": "Bento Steak",
+      "ko": "스테이크 도시락",
+      "zh-Hant": "牛排便當",
+      "zh-Hans": "牛排便当"
+    },
+    "item_steak_bento_name": {
+      "ja": "ステーキ弁当",
+      "en": "Steak Bento",
+      "fr": "Bento Steak",
+      "ko": "스테이크 도시락",
+      "zh-Hant": "牛排便當",
+      "zh-Hans": "牛排便当"
+    },
+    "item_steak_bento_name_en": {
+      "ja": "Steak Bento",
+      "en": "Steak Bento",
+      "fr": "Steak Bento",
+      "ko": "Steak Bento",
+      "zh-Hant": "Steak Bento",
+      "zh-Hans": "Steak Bento"
+    },
+    "item_steak_bento_desc": {
+      "ja": "沖縄経産牛のステーキを、お弁当に。",
+      "en": "Okinawa aged beef steak in bento form.",
+      "fr": "Le steak de bœuf vieilli d'Okinawa, en version bento.",
+      "ko": "오키나와 경산우 스테이크를 도시락으로.",
+      "zh-Hant": "沖繩經產牛排,做成便當。",
+      "zh-Hans": "冲绳经产牛排,做成便当。"
+    },
+    "item_steak_bento_price_placeholder": {
+      "ja": "価格は店頭にて",
+      "en": "Price on request",
+      "fr": "Prix sur demande",
+      "ko": "가격은 매장에서",
+      "zh-Hant": "價格請洽店內",
+      "zh-Hans": "价格请洽店内"
+    },
+    "item_steak_bento_price_note": {
+      "ja": "税込／店頭にてお伝えします",
+      "en": "Tax included / Please ask in-store",
+      "fr": "TTC / Renseignement sur place",
+      "ko": "부가세 포함 / 매장에서 안내드립니다",
+      "zh-Hant": "含稅／店內為您介紹",
+      "zh-Hans": "含税／店内为您介绍"
+    },
+    "section_sandwich_eyebrow": {
+      "ja": "Sandwiches",
+      "en": "Sandwiches",
+      "fr": "Sandwiches",
+      "ko": "Sandwiches",
+      "zh-Hant": "Sandwiches",
+      "zh-Hans": "Sandwiches"
+    },
+    "section_sandwich_title": {
+      "ja": "サンドイッチ",
+      "en": "Sandwiches",
+      "fr": "Sandwiches",
+      "ko": "샌드위치",
+      "zh-Hant": "三明治",
+      "zh-Hans": "三明治"
+    },
+    "item_cheese_steak_sandwich_alt": {
+      "ja": "チーズステーキサンド",
+      "en": "Cheese Steak Sandwich",
+      "fr": "Sandwich Cheese Steak",
+      "ko": "치즈 스테이크 샌드",
+      "zh-Hant": "起司牛排三明治",
+      "zh-Hans": "起司牛排三明治"
+    },
+    "item_cheese_steak_sandwich_name": {
+      "ja": "チーズステーキサンド",
+      "en": "Cheese Steak Sandwich",
+      "fr": "Sandwich Cheese Steak",
+      "ko": "치즈 스테이크 샌드",
+      "zh-Hant": "起司牛排三明治",
+      "zh-Hans": "起司牛排三明治"
+    },
+    "item_cheese_steak_sandwich_name_en": {
+      "ja": "Cheese Steak Sandwich",
+      "en": "Cheese Steak Sandwich",
+      "fr": "Cheese Steak Sandwich",
+      "ko": "Cheese Steak Sandwich",
+      "zh-Hant": "Cheese Steak Sandwich",
+      "zh-Hans": "Cheese Steak Sandwich"
+    },
+    "item_cheese_steak_sandwich_desc": {
+      "ja": "とろける旨さの濃厚チーズサンド。",
+      "en": "A rich, melty cheese sandwich.",
+      "fr": "Un sandwich onctueux, fromage fondant à souhait.",
+      "ko": "녹아내리는 진한 치즈 샌드.",
+      "zh-Hant": "起司融化、滋味濃郁的起司三明治。",
+      "zh-Hans": "起司融化、滋味浓郁的起司三明治。"
+    },
+    "item_tacos_sandwich_alt": {
+      "ja": "タコスサンド",
+      "en": "Tacos Sandwich",
+      "fr": "Sandwich Tacos",
+      "ko": "타코스 샌드",
+      "zh-Hant": "墨西哥肉醬三明治",
+      "zh-Hans": "墨西哥肉酱三明治"
+    },
+    "item_tacos_sandwich_name": {
+      "ja": "タコスサンド",
+      "en": "Tacos Sandwich",
+      "fr": "Sandwich Tacos",
+      "ko": "타코스 샌드",
+      "zh-Hant": "墨西哥肉醬三明治",
+      "zh-Hans": "墨西哥肉酱三明治"
+    },
+    "item_tacos_sandwich_name_en": {
+      "ja": "Tacos Sandwich",
+      "en": "Tacos Sandwich",
+      "fr": "Tacos Sandwich",
+      "ko": "Tacos Sandwich",
+      "zh-Hant": "Tacos Sandwich",
+      "zh-Hans": "Tacos Sandwich"
+    },
+    "item_tacos_sandwich_desc": {
+      "ja": "スパイス香るタコミートサンド。",
+      "en": "A fragrant, spice-filled taco meat sandwich.",
+      "fr": "Un sandwich à la viande taco aux épices parfumées.",
+      "ko": "스파이스 향 가득한 타코 미트 샌드.",
+      "zh-Hant": "香料風味的墨西哥肉醬三明治。",
+      "zh-Hans": "香料风味的墨西哥肉酱三明治。"
+    },
+    "order_phone_eyebrow": {
+      "ja": "Order by Phone",
+      "en": "Order by Phone",
+      "fr": "Commande par téléphone",
+      "ko": "Order by Phone",
+      "zh-Hant": "電話訂購",
+      "zh-Hans": "电话订购"
+    },
+    "order_phone_label": {
+      "ja": "📞 お電話で",
+      "en": "📞 By phone",
+      "fr": "📞 Par téléphone",
+      "ko": "📞 전화 주문",
+      "zh-Hant": "📞 電話訂購",
+      "zh-Hans": "📞 电话订购"
+    },
+    "order_phone_aria": {
+      "ja": "電話で注文 03-6303-1861",
+      "en": "Order by phone: 03-6303-1861",
+      "fr": "Commander par téléphone : 03-6303-1861",
+      "ko": "전화 주문 03-6303-1861",
+      "zh-Hant": "電話訂購 03-6303-1861",
+      "zh-Hans": "电话订购 03-6303-1861"
+    },
+    "order_phone_hours": {
+      "ja": "11:30 – 21:00 / 定休日：月曜日",
+      "en": "11:30 – 21:00 / Closed Mondays",
+      "fr": "11h30 – 21h00 / Fermé le lundi",
+      "ko": "11:30 – 21:00 / 정기휴일: 월요일",
+      "zh-Hant": "11:30 – 21:00 ／週一公休",
+      "zh-Hans": "11:30 – 21:00 ／周一公休"
+    },
+    "delivery_eyebrow": {
+      "ja": "Delivery",
+      "en": "Delivery",
+      "fr": "Livraison",
+      "ko": "Delivery",
+      "zh-Hant": "外送",
+      "zh-Hans": "外送"
+    },
+    "delivery_label": {
+      "ja": "🚴 Uber Eats でも配達しています",
+      "en": "🚴 Uber Eats delivery available",
+      "fr": "🚴 Livraison disponible avec Uber Eats",
+      "ko": "🚴 Uber Eats 배달도 가능합니다",
+      "zh-Hant": "🚴 提供 Uber Eats 外送服務",
+      "zh-Hans": "🚴 提供 Uber Eats 外送服务"
+    },
+    "delivery_btn_text": {
+      "ja": "→ Uber Eats で注文する",
+      "en": "→ Order on Uber Eats",
+      "fr": "→ Commander sur Uber Eats",
+      "ko": "→ Uber Eats 에서 주문하기",
+      "zh-Hant": "→ 在 Uber Eats 訂購",
+      "zh-Hans": "→ 在 Uber Eats 订购"
+    },
+    "delivery_btn_aria": {
+      "ja": "Uber Eatsで注文する（外部サイト）",
+      "en": "Order on Uber Eats (external site)",
+      "fr": "Commander sur Uber Eats (site externe)",
+      "ko": "Uber Eats 에서 주문하기 (외부 사이트)",
+      "zh-Hant": "在 Uber Eats 訂購(外部網站)",
+      "zh-Hans": "在 Uber Eats 订购(外部网站)"
+    }
+  },
+  "campaign": {
+    "meta_title": {
+      "ja": "期間限定キャンペーン | CHUM APARTMENT チャムアパートメント",
+      "en": "Limited-Time Campaign | CHUM APARTMENT",
+      "fr": "Offre Limitée | CHUM APARTMENT",
+      "ko": "기간 한정 캠페인 | CHUM APARTMENT",
+      "zh-Hant": "限時優惠 | CHUM APARTMENT",
+      "zh-Hans": "限时优惠 | CHUM APARTMENT"
+    },
+    "meta_description": {
+      "ja": "CHUM APARTMENT 期間限定キャンペーン。もとぶ A3 肩ロースを 15% OFF の特別価格にてご提供。数量限定。",
+      "en": "Limited-time campaign at CHUM APARTMENT. Motobu A3 Shoulder Loin steak at 15% OFF. Limited quantity available.",
+      "fr": "Offre limitée au CHUM APARTMENT. Faux-filet d'épaule Motobu A3 à -15 %. Quantités limitées.",
+      "ko": "CHUM APARTMENT 기간 한정 캠페인. 모토부 A3 숄더 로인을 15% OFF 특별 가격으로 제공. 수량 한정.",
+      "zh-Hant": "CHUM APARTMENT 限時優惠活動。本部 A3 肩里肌牛排享 15% OFF 特別價格。數量限定。",
+      "zh-Hans": "CHUM APARTMENT 限时优惠活动。本部 A3 肩里脊牛排享 15% OFF 特别价格。数量限定。"
+    },
+    "og_title": {
+      "ja": "期間限定キャンペーン | CHUM APARTMENT",
+      "en": "Limited-Time Campaign | CHUM APARTMENT",
+      "fr": "Offre Limitée | CHUM APARTMENT",
+      "ko": "기간 한정 캠페인 | CHUM APARTMENT",
+      "zh-Hant": "限時優惠 | CHUM APARTMENT",
+      "zh-Hans": "限时优惠 | CHUM APARTMENT"
+    },
+    "og_description": {
+      "ja": "もとぶ A3 肩ロースを 15% OFF にて。数量限定キャンペーン実施中。",
+      "en": "Motobu A3 Shoulder Loin at 15% OFF. Limited quantity campaign on now.",
+      "fr": "Faux-filet d'épaule Motobu A3 à -15 %. Quantités limitées.",
+      "ko": "모토부 A3 숄더 로인을 15% OFF 로. 수량 한정 캠페인 실시중.",
+      "zh-Hant": "本部 A3 肩里肌享 15% OFF。數量限定優惠進行中。",
+      "zh-Hans": "本部 A3 肩里脊享 15% OFF。数量限定优惠进行中。"
+    },
+    "hero_title_en": {
+      "ja": "Limited Campaign",
+      "en": "Limited Campaign",
+      "fr": "Limited Campaign",
+      "ko": "Limited Campaign",
+      "zh-Hant": "Limited Campaign",
+      "zh-Hans": "Limited Campaign"
+    },
+    "hero_title_ja": {
+      "ja": "期間限定キャンペーン",
+      "en": "Limited-Time Campaign",
+      "fr": "Offre Limitée",
+      "ko": "기간 한정 캠페인",
+      "zh-Hant": "限時優惠活動",
+      "zh-Hans": "限时优惠活动"
+    },
+    "hero_sub": {
+      "ja": "Okinawa Brand Aged Beef",
+      "en": "Okinawa Brand Aged Beef",
+      "fr": "Okinawa Brand Aged Beef",
+      "ko": "Okinawa Brand Aged Beef",
+      "zh-Hant": "Okinawa Brand Aged Beef",
+      "zh-Hans": "Okinawa Brand Aged Beef"
+    },
+    "cut_badge": {
+      "ja": "もとぶ A3 肩ロース",
+      "en": "Motobu A3 Shoulder Loin",
+      "fr": "Motobu A3 Faux-filet d'épaule",
+      "ko": "모토부 A3 숄더 로인",
+      "zh-Hant": "本部 A3 肩里肌",
+      "zh-Hans": "本部 A3 肩里脊"
+    },
+    "discount_headline": {
+      "ja": "15% OFF",
+      "en": "15% OFF",
+      "fr": "-15 %",
+      "ko": "15% OFF",
+      "zh-Hant": "15% OFF",
+      "zh-Hans": "15% OFF"
+    },
+    "discount_sub": {
+      "ja": "特別価格にて、ご提供中",
+      "en": "Available now at this special price",
+      "fr": "À ce prix exceptionnel",
+      "ko": "특별 가격으로 제공중",
+      "zh-Hant": "以特別價格供應中",
+      "zh-Hans": "以特别价格供应中"
+    },
+    "price_tax_note": {
+      "ja": "全て税込価格",
+      "en": "All prices tax included",
+      "fr": "Tous les prix TTC",
+      "ko": "모든 가격 부가세 포함",
+      "zh-Hant": "所有價格皆含稅",
+      "zh-Hans": "所有价格皆含税"
+    },
+    "limited_note_1": {
+      "ja": "※ 数量限定キャンペーンです。",
+      "en": "※ Limited quantity campaign.",
+      "fr": "※ Offre en quantité limitée.",
+      "ko": "※ 수량 한정 캠페인입니다.",
+      "zh-Hant": "※ 為數量限定優惠活動。",
+      "zh-Hans": "※ 为数量限定优惠活动。"
+    },
+    "limited_note_2": {
+      "ja": "※ 今回ご用意した分がなくなり次第、終了いたします。",
+      "en": "※ The campaign ends as soon as our prepared stock runs out.",
+      "fr": "※ L'offre prend fin dès l'épuisement des stocks préparés.",
+      "ko": "※ 이번에 준비한 분량이 소진되는 대로 종료됩니다.",
+      "zh-Hant": "※ 此次準備數量售完即結束。",
+      "zh-Hans": "※ 此次准备数量售完即结束。"
+    },
+    "reservation_eyebrow": {
+      "ja": "Reservation",
+      "en": "Reservation",
+      "fr": "Réservation",
+      "ko": "Reservation",
+      "zh-Hant": "Reservation",
+      "zh-Hans": "Reservation"
+    },
+    "reservation_label": {
+      "ja": "お電話にてご予約承ります",
+      "en": "Reservations by phone",
+      "fr": "Réservations par téléphone",
+      "ko": "전화로 예약 받습니다",
+      "zh-Hant": "電話接受預約",
+      "zh-Hans": "电话接受预约"
+    },
+    "reservation_hours": {
+      "ja": "11:30 – 21:00 / 定休日:月曜日",
+      "en": "11:30 – 21:00 / Closed Mondays",
+      "fr": "11h30 – 21h00 / Fermé le lundi",
+      "ko": "11:30 – 21:00 / 정기휴일: 월요일",
+      "zh-Hant": "11:30 – 21:00 ／週一公休",
+      "zh-Hans": "11:30 – 21:00 ／周一公休"
+    }
+  }
+}

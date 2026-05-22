@@ -59,10 +59,15 @@
   }
 
   function getPageSection() {
-    const path = (location.pathname || '').toLowerCase();
-    if (path.endsWith('/drink.html'))    return 'drink';
-    if (path.endsWith('/takeout.html'))  return 'takeout';
-    if (path.endsWith('/campaign.html')) return 'campaign';
+    // Normalize: strip trailing '.html' (Cloudflare Pages drops the extension
+    // and redirects /foo.html -> /foo) and any trailing slash, so we match
+    // '/drink', '/drink.html', and '/drink/' equivalently.
+    const path = (location.pathname || '').toLowerCase()
+      .replace(/\.html$/, '')
+      .replace(/\/$/, '');
+    if (path.endsWith('/drink'))    return 'drink';
+    if (path.endsWith('/takeout'))  return 'takeout';
+    if (path.endsWith('/campaign')) return 'campaign';
     return 'index';
   }
 

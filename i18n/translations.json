@@ -2304,5 +2304,183 @@
       "zh-Hant": "11:30 – 21:00 ／週一公休",
       "zh-Hans": "11:30 – 21:00 ／周一公休"
     }
+  },
+  "kakigori": {
+    "meta_title": {
+      "ja": "かき氷 | CHUM APARTMENT チャムアパートメント",
+      "en": "Kakigori (Shaved Ice) | CHUM APARTMENT",
+      "fr": "Kakigori (Glace pilée) | CHUM APARTMENT",
+      "ko": "빙수 (카키고리) | CHUM APARTMENT",
+      "zh-Hant": "刨冰 | CHUM APARTMENT",
+      "zh-Hans": "刨冰 | CHUM APARTMENT"
+    },
+    "meta_description": {
+      "ja": "CHUM APARTMENT（チャムアパートメント）の自家製かき氷。自家製苺ソース・芋のキャラメリゼ・胡麻キャラメルの3種を、素材からひとつひとつ仕立ててご用意しました。",
+      "en": "Homemade kakigori (shaved ice) at CHUM APARTMENT. Three artisanal flavours — strawberry, caramelised sweet potato, and sesame caramel — each crafted from scratch.",
+      "fr": "Kakigori (glace pilée) maison au CHUM APARTMENT. Trois créations — fraise, patate douce caramélisée et caramel au sésame — préparées avec soin.",
+      "ko": "CHUM APARTMENT의 수제 빙수. 수제 딸기 소스, 고구마 캐러멜리제, 참깨 카라멜 세 가지를 재료부터 하나하나 만들었습니다.",
+      "zh-Hant": "CHUM APARTMENT 自製刨冰。自製草莓醬、焦糖地瓜、芝麻焦糖三款，皆從食材逐一手作。",
+      "zh-Hans": "CHUM APARTMENT 自制刨冰。自制草莓酱、焦糖地瓜、芝麻焦糖三款，皆从食材逐一手作。"
+    },
+    "og_title": {
+      "ja": "かき氷 | CHUM APARTMENT",
+      "en": "Kakigori (Shaved Ice) | CHUM APARTMENT",
+      "fr": "Kakigori (Glace pilée) | CHUM APARTMENT",
+      "ko": "빙수 (카키고리) | CHUM APARTMENT",
+      "zh-Hant": "刨冰 | CHUM APARTMENT",
+      "zh-Hans": "刨冰 | CHUM APARTMENT"
+    },
+    "og_description": {
+      "ja": "自家製の苺・芋・胡麻キャラメル、3種のかき氷。素材から仕立てた一杯です。",
+      "en": "Three homemade kakigori — strawberry, sweet potato, and sesame caramel. Crafted from scratch.",
+      "fr": "Trois kakigori maison — fraise, patate douce et caramel au sésame. Préparés avec soin.",
+      "ko": "수제 딸기·고구마·참깨 카라멜, 세 가지 빙수.",
+      "zh-Hant": "自製草莓、地瓜、芝麻焦糖三款刨冰。",
+      "zh-Hans": "自制草莓、地瓜、芝麻焦糖三款刨冰。"
+    },
+    "hero_title_en": {
+      "ja": "Kakigori",
+      "en": "Kakigori",
+      "fr": "Kakigori",
+      "ko": "Kakigori",
+      "zh-Hant": "Kakigori",
+      "zh-Hans": "Kakigori"
+    },
+    "page_title": {
+      "ja": "かき氷",
+      "en": "Kakigori (Shaved Ice)",
+      "fr": "Kakigori (Glace pilée)",
+      "ko": "빙수 (카키고리)",
+      "zh-Hant": "刨冰",
+      "zh-Hans": "刨冰"
+    },
+    "hero_lede": {
+      "ja": "素材からひとつひとつ仕立てた、自家製のかき氷。\nふわりと削った氷に、季節の味わいを重ねて。",
+      "en": "Homemade shaved ice, each element crafted from scratch.\nDelicately shaved ice, layered with the flavours of the season.",
+      "fr": "Glace pilée maison, chaque élément préparé avec soin.\nUne glace finement pilée, rehaussée des saveurs de la saison.",
+      "ko": "재료부터 하나하나 만든 수제 빙수.\n곱게 간 얼음에 계절의 맛을 더했습니다.",
+      "zh-Hant": "從食材逐一手作的自製刨冰。\n細緻刨冰，疊上當季的風味。",
+      "zh-Hans": "从食材逐一手作的自制刨冰。\n细致刨冰，叠上当季的风味。"
+    },
+    "tax_note_banner": {
+      "ja": "表示価格はすべて税込",
+      "en": "All prices include tax",
+      "fr": "Tous les prix sont TTC",
+      "ko": "표시 가격은 모두 부가세 포함",
+      "zh-Hant": "標示價格皆含稅",
+      "zh-Hans": "标示价格皆含税"
+    },
+    "section_menu_eyebrow": {
+      "ja": "Menu",
+      "en": "Menu",
+      "fr": "Menu",
+      "ko": "Menu",
+      "zh-Hant": "Menu",
+      "zh-Hans": "Menu"
+    },
+    "section_menu_title": {
+      "ja": "おしながき",
+      "en": "Our Flavours",
+      "fr": "Nos parfums",
+      "ko": "메뉴",
+      "zh-Hant": "品項",
+      "zh-Hans": "品项"
+    },
+    "item_strawberry_alt": {
+      "ja": "自家製苺のショコラベリー 〜山椒添え〜",
+      "en": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper",
+      "fr": "Fraise maison et chocolat aux baies, touche de poivre sansho",
+      "ko": "수제 딸기 쇼콜라 베리 〜산초 곁들임〜",
+      "zh-Hant": "自製草莓巧克力莓 〜山椒點綴〜",
+      "zh-Hans": "自制草莓巧克力莓 〜山椒点缀〜"
+    },
+    "item_strawberry_name": {
+      "ja": "自家製苺のショコラベリー 〜山椒添え〜",
+      "en": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper",
+      "fr": "Fraise maison et chocolat aux baies, touche de poivre sansho",
+      "ko": "수제 딸기 쇼콜라 베리 〜산초 곁들임〜",
+      "zh-Hant": "自製草莓巧克力莓 〜山椒點綴〜",
+      "zh-Hans": "自制草莓巧克力莓 〜山椒点缀〜"
+    },
+    "item_strawberry_name_en": {
+      "ja": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper",
+      "en": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper",
+      "fr": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper",
+      "ko": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper",
+      "zh-Hant": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper",
+      "zh-Hans": "Homemade Strawberry Chocolat-Berry, with Sansho Pepper"
+    },
+    "item_strawberry_desc": {
+      "ja": "完熟苺をレモンとともに炊き上げた、自家製の苺ソース。ふわりと削った氷に、濃厚なチョコレートとごろっと果肉のラズベリーを重ねました。仕上げの四川青山椒が、甘く瑞々しい余韻に爽やかで凛とした香りを添えます。",
+      "en": "A homemade strawberry sauce, simmered from ripe strawberries with a touch of lemon. Over delicately shaved ice we layer rich chocolate and whole raspberries. A finish of Sichuan green sansho pepper lends a crisp, fragrant note to the sweet, juicy lingering taste.",
+      "fr": "Une sauce à la fraise maison, mijotée à partir de fraises bien mûres et d'une pointe de citron. Sur une glace finement pilée, nous superposons un chocolat intense et des framboises entières. Une touche de poivre sansho vert du Sichuan apporte une note vive et parfumée à cette douceur juteuse.",
+      "ko": "잘 익은 딸기를 레몬과 함께 졸여 만든 수제 딸기 소스. 곱게 간 빙수 위에 진한 초콜릿과 알알이 씹히는 라즈베리를 듬뿍 올렸습니다. 마무리로 더한 사천 청산초가 달콤하고 상큼한 여운에 산뜻하고 기품 있는 향을 더합니다.",
+      "zh-Hant": "以完熟草莓佐檸檬熬煮而成的自製草莓醬。在細緻刨冰上鋪疊濃郁巧克力與飽滿的覆盆子果粒，最後以四川青山椒點綴，為香甜多汁的餘韻增添一抹清爽而凜然的香氣。",
+      "zh-Hans": "以完熟草莓佐柠檬熬煮而成的自制草莓酱。在细致刨冰上铺叠浓郁巧克力与饱满的覆盆子果粒，最后以四川青山椒点缀，为香甜多汁的余韵增添一抹清爽而凛然的香气。"
+    },
+    "item_sweetpotato_alt": {
+      "ja": "芋畑のキャラメリゼ",
+      "en": "Caramelised Sweet Potato",
+      "fr": "Patate douce caramélisée",
+      "ko": "고구마밭 캐러멜리제",
+      "zh-Hant": "焦糖地瓜田",
+      "zh-Hans": "焦糖地瓜田"
+    },
+    "item_sweetpotato_name": {
+      "ja": "芋畑のキャラメリゼ",
+      "en": "Caramelised Sweet Potato",
+      "fr": "Patate douce caramélisée",
+      "ko": "고구마밭 캐러멜리제",
+      "zh-Hant": "焦糖地瓜田",
+      "zh-Hans": "焦糖地瓜田"
+    },
+    "item_sweetpotato_name_en": {
+      "ja": "Caramelised Sweet Potato",
+      "en": "Caramelised Sweet Potato",
+      "fr": "Caramelised Sweet Potato",
+      "ko": "Caramelised Sweet Potato",
+      "zh-Hant": "Caramelised Sweet Potato",
+      "zh-Hans": "Caramelised Sweet Potato"
+    },
+    "item_sweetpotato_desc": {
+      "ja": "なめらかに練り上げたさつまいものペーストを、氷の上にとろりと。香ばしくキャラメリゼした角切りのさつまいもとカラメルソースを重ね、仕上げに黒胡麻をひとつまみ。掘りたての畑を思わせる、ほっくりと優しい甘さが広がります。",
+      "en": "A smooth sweet potato paste draped over the ice. We add cubes of fragrantly caramelised sweet potato and caramel sauce, finished with a pinch of black sesame. A mellow, gentle sweetness that calls to mind a freshly harvested field.",
+      "fr": "Une purée de patate douce onctueuse, nappée sur la glace. Nous y ajoutons des dés de patate douce caramélisée et une sauce caramel, puis une pincée de sésame noir. Une douceur tendre et réconfortante, évoquant un champ fraîchement récolté.",
+      "ko": "부드럽게 으깬 고구마 페이스트를 빙수 위에 듬뿍. 고소하게 캐러멜라이즈한 깍둑썰기 고구마와 캐러멜 소스를 올리고, 마지막으로 검은깨를 살짝 뿌렸습니다. 갓 캐낸 밭을 떠올리게 하는, 포근하고 부드러운 단맛이 퍼집니다.",
+      "zh-Hant": "將細緻拌煮的地瓜泥綿密地鋪於刨冰之上，疊上香氣四溢的焦糖地瓜丁與焦糖醬，最後撒上少許黑芝麻。鬆軟而溫潤的甜味，宛如剛採收的田園。",
+      "zh-Hans": "将细致拌煮的地瓜泥绵密地铺于刨冰之上，叠上香气四溢的焦糖地瓜丁与焦糖酱，最后撒上少许黑芝麻。松软而温润的甜味，宛如刚采收的田园。"
+    },
+    "item_sesame_alt": {
+      "ja": "胡麻香るとろけるキャラメル 〜くるみ添え〜",
+      "en": "Melting Sesame Caramel, with Walnuts",
+      "fr": "Caramel fondant au sésame, éclats de noix",
+      "ko": "고소한 참깨 카라멜 〜호두 곁들임〜",
+      "zh-Hant": "芝麻焦糖 〜核桃點綴〜",
+      "zh-Hans": "芝麻焦糖 〜核桃点缀〜"
+    },
+    "item_sesame_name": {
+      "ja": "胡麻香るとろけるキャラメル 〜くるみ添え〜",
+      "en": "Melting Sesame Caramel, with Walnuts",
+      "fr": "Caramel fondant au sésame, éclats de noix",
+      "ko": "고소한 참깨 카라멜 〜호두 곁들임〜",
+      "zh-Hant": "芝麻焦糖 〜核桃點綴〜",
+      "zh-Hans": "芝麻焦糖 〜核桃点缀〜"
+    },
+    "item_sesame_name_en": {
+      "ja": "Melting Sesame Caramel, with Walnuts",
+      "en": "Melting Sesame Caramel, with Walnuts",
+      "fr": "Melting Sesame Caramel, with Walnuts",
+      "ko": "Melting Sesame Caramel, with Walnuts",
+      "zh-Hant": "Melting Sesame Caramel, with Walnuts",
+      "zh-Hans": "Melting Sesame Caramel, with Walnuts"
+    },
+    "item_sesame_desc": {
+      "ja": "白の純ねり胡麻をたっぷり溶かし込んだ、とろりと濃厚なキャラメルソース。芳ばしい胡麻のコクが氷の芯までしみわたり、香ばしく砕いたくるみが心地よい食感を添えます。和の素材が静かに響き合う、奥行きのある一杯です。",
+      "en": "A thick, velvety caramel sauce enriched with plenty of pure white sesame paste. The nutty depth of sesame seeps to the very core of the ice, while toasted, crushed walnuts add a pleasing crunch. A layered bowl where Japanese ingredients quietly resonate.",
+      "fr": "Une sauce caramel onctueuse et généreuse, enrichie de pâte de sésame blanc pur. La profondeur torréfiée du sésame imprègne le cœur même de la glace, tandis que des éclats de noix grillées apportent un croquant délicat. Un bol tout en nuances, où les saveurs japonaises s'accordent en douceur.",
+      "ko": "백색 순참깨 페이스트를 듬뿍 녹여 넣은, 걸쭉하고 진한 캐러멜 소스. 고소한 참깨의 깊은 맛이 빙수 속까지 스며들고, 바삭하게 빻은 호두가 기분 좋은 식감을 더합니다. 일본의 재료들이 은은하게 어우러지는, 깊이 있는 한 그릇입니다.",
+      "zh-Hant": "融入大量純白芝麻醬、濃稠醇厚的焦糖醬。芳香的芝麻醇韻滲入刨冰深處，香脆的核桃碎更添愉悅口感。是一碗和風食材靜靜交織、層次深邃的逸品。",
+      "zh-Hans": "融入大量纯白芝麻酱、浓稠醇厚的焦糖酱。芳香的芝麻醇韵渗入刨冰深处，香脆的核桃碎更添愉悦口感。是一碗和风食材静静交织、层次深邃的逸品。"
+    }
   }
 }

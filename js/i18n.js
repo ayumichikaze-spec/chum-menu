@@ -68,6 +68,7 @@
     if (path.endsWith('/drink'))    return 'drink';
     if (path.endsWith('/takeout'))  return 'takeout';
     if (path.endsWith('/campaign')) return 'campaign';
+    if (path.endsWith('/kakigori')) return 'kakigori';
     return 'index';
   }
 

@@ -144,6 +144,14 @@
       "zh-Hant": "查看飲品菜單",
       "zh-Hans": "查看饮品菜单"
     },
+    "btn_view_kakigori": {
+      "ja": "かき氷",
+      "en": "Kakigori (Shaved Ice)",
+      "fr": "Kakigori (Glace pilée)",
+      "ko": "빙수 (카키고리)",
+      "zh-Hant": "刨冰",
+      "zh-Hans": "刨冰"
+    },
     "btn_back_to_main": {
       "ja": "← メインメニューに戻る",
       "en": "← Back to Main Menu",
@@ -2315,12 +2323,12 @@
       "zh-Hans": "刨冰 | CHUM APARTMENT"
     },
     "meta_description": {
-      "ja": "CHUM APARTMENT（チャムアパートメント）の自家製かき氷。自家製苺ソース・芋のキャラメリゼ・胡麻キャラメルの3種を、素材からひとつひとつ仕立ててご用意しました。",
-      "en": "Homemade kakigori (shaved ice) at CHUM APARTMENT. Three artisanal flavours — strawberry, caramelised sweet potato, and sesame caramel — each crafted from scratch.",
-      "fr": "Kakigori (glace pilée) maison au CHUM APARTMENT. Trois créations — fraise, patate douce caramélisée et caramel au sésame — préparées avec soin.",
-      "ko": "CHUM APARTMENT의 수제 빙수. 수제 딸기 소스, 고구마 캐러멜리제, 참깨 카라멜 세 가지를 재료부터 하나하나 만들었습니다.",
-      "zh-Hant": "CHUM APARTMENT 自製刨冰。自製草莓醬、焦糖地瓜、芝麻焦糖三款，皆從食材逐一手作。",
-      "zh-Hans": "CHUM APARTMENT 自制刨冰。自制草莓酱、焦糖地瓜、芝麻焦糖三款，皆从食材逐一手作。"
+      "ja": "CHUM APARTMENT（チャムアパートメント）の自家製かき氷。自家製苺ソース・芋のキャラメリゼ・胡麻キャラメル・宇治抹茶の4種を、素材からひとつひとつ仕立ててご用意しました。",
+      "en": "Homemade kakigori (shaved ice) at CHUM APARTMENT. Four artisanal flavours — strawberry, caramelised sweet potato, sesame caramel, and Uji matcha — each crafted from scratch.",
+      "fr": "Kakigori (glace pilée) maison au CHUM APARTMENT. Quatre créations — fraise, patate douce caramélisée, caramel au sésame et matcha d'Uji — préparées avec soin.",
+      "ko": "CHUM APARTMENT의 수제 빙수. 수제 딸기 소스, 고구마 캐러멜리제, 참깨 카라멜, 우지 말차 네 가지를 재료부터 하나하나 만들었습니다.",
+      "zh-Hant": "CHUM APARTMENT 自製刨冰。自製草莓醬、焦糖地瓜、芝麻焦糖、宇治抹茶四款，皆從食材逐一手作。",
+      "zh-Hans": "CHUM APARTMENT 自制刨冰。自制草莓酱、焦糖地瓜、芝麻焦糖、宇治抹茶四款，皆从食材逐一手作。"
     },
     "og_title": {
       "ja": "かき氷 | CHUM APARTMENT",
@@ -2331,12 +2339,12 @@
       "zh-Hans": "刨冰 | CHUM APARTMENT"
     },
     "og_description": {
-      "ja": "自家製の苺・芋・胡麻キャラメル、3種のかき氷。素材から仕立てた一杯です。",
-      "en": "Three homemade kakigori — strawberry, sweet potato, and sesame caramel. Crafted from scratch.",
-      "fr": "Trois kakigori maison — fraise, patate douce et caramel au sésame. Préparés avec soin.",
-      "ko": "수제 딸기·고구마·참깨 카라멜, 세 가지 빙수.",
-      "zh-Hant": "自製草莓、地瓜、芝麻焦糖三款刨冰。",
-      "zh-Hans": "自制草莓、地瓜、芝麻焦糖三款刨冰。"
+      "ja": "自家製の苺・芋・胡麻キャラメル・宇治抹茶、4種のかき氷。素材から仕立てた一杯です。",
+      "en": "Four homemade kakigori — strawberry, sweet potato, sesame caramel, and Uji matcha. Crafted from scratch.",
+      "fr": "Quatre kakigori maison — fraise, patate douce, caramel au sésame et matcha d'Uji. Préparés avec soin.",
+      "ko": "수제 딸기·고구마·참깨 카라멜·우지 말차, 네 가지 빙수.",
+      "zh-Hant": "自製草莓、地瓜、芝麻焦糖、宇治抹茶四款刨冰。",
+      "zh-Hans": "自制草莓、地瓜、芝麻焦糖、宇治抹茶四款刨冰。"
     },
     "hero_title_en": {
       "ja": "Kakigori",
@@ -2481,6 +2489,38 @@
       "ko": "백색 순참깨 페이스트를 듬뿍 녹여 넣은, 걸쭉하고 진한 캐러멜 소스. 고소한 참깨의 깊은 맛이 빙수 속까지 스며들고, 바삭하게 빻은 호두가 기분 좋은 식감을 더합니다. 일본의 재료들이 은은하게 어우러지는, 깊이 있는 한 그릇입니다.",
       "zh-Hant": "融入大量純白芝麻醬、濃稠醇厚的焦糖醬。芳香的芝麻醇韻滲入刨冰深處，香脆的核桃碎更添愉悅口感。是一碗和風食材靜靜交織、層次深邃的逸品。",
       "zh-Hans": "融入大量纯白芝麻酱、浓稠醇厚的焦糖酱。芳香的芝麻醇韵渗入刨冰深处，香脆的核桃碎更添愉悦口感。是一碗和风食材静静交织、层次深邃的逸品。"
+    },
+    "item_matcha_alt": {
+      "ja": "宇治抹茶のあずき白玉",
+      "en": "Uji Matcha with Red Bean & Shiratama",
+      "fr": "Matcha d'Uji, haricots rouges et shiratama",
+      "ko": "우지 말차 팥 시라타마",
+      "zh-Hant": "宇治抹茶紅豆白玉",
+      "zh-Hans": "宇治抹茶红豆白玉"
+    },
+    "item_matcha_name": {
+      "ja": "宇治抹茶のあずき白玉",
+      "en": "Uji Matcha with Red Bean & Shiratama",
+      "fr": "Matcha d'Uji, haricots rouges et shiratama",
+      "ko": "우지 말차 팥 시라타마",
+      "zh-Hant": "宇治抹茶紅豆白玉",
+      "zh-Hans": "宇治抹茶红豆白玉"
+    },
+    "item_matcha_name_en": {
+      "ja": "Uji Matcha with Red Bean & Shiratama",
+      "en": "Uji Matcha with Red Bean & Shiratama",
+      "fr": "Uji Matcha with Red Bean & Shiratama",
+      "ko": "Uji Matcha with Red Bean & Shiratama",
+      "zh-Hant": "Uji Matcha with Red Bean & Shiratama",
+      "zh-Hans": "Uji Matcha with Red Bean & Shiratama"
+    },
+    "item_matcha_desc": {
+      "ja": "濃厚な宇治抹茶のソースを、きめ細やかな氷にたっぷりと。じっくり炊いた粒あんと、もっちりとした白玉を添えました。抹茶のほろ苦さと優しい甘さが溶け合う、王道の和のかき氷です。※数量限定。無くなり次第終了です。",
+      "en": "A generous pour of rich Uji matcha sauce over finely shaved ice, with slow-simmered red bean paste and chewy shiratama mochi. The gentle bitterness of matcha melds with a soft sweetness — a timeless Japanese classic. *Limited quantity — available while supplies last.",
+      "fr": "Une généreuse nappe de sauce au matcha d'Uji sur une glace finement pilée, accompagnée de haricots rouges mijotés et de shiratama moelleux. L'amertume délicate du matcha se marie à une douceur tendre : un grand classique japonais. *Quantité limitée — jusqu'à épuisement des stocks.",
+      "ko": "진한 우지 말차 소스를 곱게 간 빙수 위에 듬뿍. 푹 끓인 팥과 쫄깃한 시라타마를 곁들였습니다. 말차의 은은한 쌉싸름함과 부드러운 단맛이 어우러지는 정통 일본식 빙수입니다. *수량 한정 — 소진 시 종료됩니다.",
+      "zh-Hant": "將濃郁的宇治抹茶醬淋於細緻刨冰之上，佐以慢火熬煮的紅豆與軟糯白玉。抹茶的微苦與溫潤甜味交融，是經典的日式刨冰。※數量限定，售完為止。",
+      "zh-Hans": "将浓郁的宇治抹茶酱淋于细致刨冰之上，佐以慢火熬煮的红豆与软糯白玉。抹茶的微苦与温润甜味交融，是经典的日式刨冰。※数量限定，售完为止。"
     }
   }
 }
